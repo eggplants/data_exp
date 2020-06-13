@@ -1,0 +1,12 @@
+a)
+//title
+b)
+//book[1]
+c)
+//book[publisher[contains(text(),"大阪")]]
+d)
+//book[publisher[contains(text(),"大阪") or contains(text(),"京都")]]
+e)
+//book[publisher[not(contains(text(),"東京"))]]
+f)
+//book[not(pubdate>//pubdate)]
