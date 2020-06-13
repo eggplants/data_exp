@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="email" type="EmailType" />
+    <xsd:simpleType name="EmailType">
+      <xsd:restriction base="xsd:string">
+        <xsd:pattern value="s(1[6-9]|20)1[13][0-9]{3}@[us]\.tsukuba\.ac\.jp" />
+    </xsd:restriction>
+  </xsd:simpleType>
+</xsd:schema>

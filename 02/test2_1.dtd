@@ -1,0 +1,10 @@
+<!ELEMENT courses  (course+)>
+<!ELEMENT course   (id, subject, semester, dwt, lecturer, url?)>
+<!ELEMENT id       (#PCDATA)>
+<!ELEMENT subject  (#PCDATA)>
+<!ELEMENT semester (#PCDATA)>
+<!ELEMENT dwt      (week, time)>
+<!ELEMENT lecturer (#PCDATA)>
+<!ELEMENT url      (#PCDATA)>
+<!ELEMENT week     (#PCDATA)>
+<!ELEMENT time     (#PCDATA)>

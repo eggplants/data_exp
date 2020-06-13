@@ -1,0 +1,20 @@
+html {
+    writing-mode:vertical-rl;
+    -webkit-writing-mode:vertical-rl;
+    -epub-writing-mode:vertical-rl;
+}
+body {
+    color: #535300;
+    font-family: Meiryo, sans-serif;
+}
+
+#titlepage {
+    width: 90%;
+    border: 3px double #666;
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+}
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<courses>
+<course>
+  <id>GE70801</id>
+  <subject>データ表現と処理</subject>
+  <semester>春AB</semester>
+  <dwt>
+    <week>Szk</week>
+    <time>3,4</time>
+  </dwt>
+    <lecturer>鈴木 伸崇</lecturer>
+</course>
+</courses>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<courses>
+<course>
+  <id>1101102</id>
+  <subject>フレッシュマン・セミナー</subject>
+  <semester>春AB</semester>
+  <dwt>
+    <week>金</week>
+    <time>2</time>
+  </dwt>
+    <lecturer>千葉 建</lecturer>
+</course>
+</courses>

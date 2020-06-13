@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:ex="http://example.org/" >
+    <rdf:Description rdf:about="urn:pin:BL608">
+      <ex:name>Tim Berners-Lee</ex:name>
+      <ex:hasHomePage
+        rdf:resource="http://www.w3.org/People/Berners-Lee/"
+        ex:created="2009/5/14" />
+    </rdf:Description>
+</rdf:RDF>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="courses">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="course" minOccurs="1" maxOccurs="unbounded">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="id" type="xsd:string" />
+                            <xsd:element name="subject" type="xsd:string" />
+                            <xsd:element name="semester" type="xsd:string" />
+                            <xsd:element name="dwt">
+                                <xsd:complexType>
+                                    <xsd:sequence>
+                                        <xsd:element name="week" type="DayType" />
+                                        <xsd:element name="time" type="xsd:string" />
+                                    </xsd:sequence>
+                                </xsd:complexType>
+                            </xsd:element>
+                            <xsd:element name="lecturer" type="xsd:string" />
+                            <xsd:element name="url" type="xsd:string" minOccurs="0" maxOccurs="1" />
+                        </xsd:sequence>
+                    </xsd:complexType>
+                </xsd:element>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:simpleType name="DayType">
+        <xsd:restriction base="xsd:string">
+            <xsd:pattern value="(Mon|Tue|Wed|Thu|Fri|Sat|Sun)" />
+        </xsd:restriction>
+    </xsd:simpleType>
+</xsd:schema>

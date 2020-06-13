@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<pricelist>
+    <book>
+        <bibRecord>JP20658260</bibRecord>
+        <price>2625</price>
+    </book>
+
+    <book>
+        <bibRecord>JP20657481</bibRecord>
+        <price>3465</price>
+    </book>
+
+    <book>
+        <bibRecord>JP20582807</bibRecord>
+        <price>3570</price>
+    </book>
+
+    <book>
+        <bibRecord>JP20627107</bibRecord>
+        <price>2100</price>
+    </book>
+
+    <book>
+        <bibRecord>JP20747626</bibRecord>
+        <price>1785</price>
+    </book>
+
+    <book>
+        <bibRecord>JP20683636</bibRecord>
+        <price>1470</price>
+    </book>
+
+    <book>
+        <bibRecord>JP20698642</bibRecord>
+        <price>2520</price>
+    </book>
+
+    <book>
+        <bibRecord>JP20539031</bibRecord>
+        <price>1575</price>
+    </book>
+
+    <book>
+        <bibRecord>JP20649548</bibRecord>
+        <price>8400</price>
+    </book>
+
+    <book>
+        <bibRecord>JP20543418</bibRecord>
+        <price>3780</price>
+    </book>
+
+</pricelist>
