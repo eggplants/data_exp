@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book>
+    <title>草枕</title>
+    <author>夏目漱石</author>
+  </book>
+  <book>
+    <title>こゝろ</title>
+    <author>夏目漱石</author>
+  </book>
+</books>

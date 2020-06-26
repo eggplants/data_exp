@@ -1,0 +1,2847 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OAI-PMH xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I028944818-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>人は前頭葉から老いていく!? 40代・娘代表が専門医に質問! 「老化」と「病」のサインを教えてください : 対談 和田秀樹 精神科医×大田垣晴子 画文家</dc:title>
+          <dc:creator>和田 秀樹</dc:creator>
+          <dc:creator>大田垣 晴子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I023786604-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Interview 中国と日本を舞台に女優への道描く : 国交正常化40周年記念映画『女優』</dc:title>
+          <dc:creator>光部愛 単涛</dc:creator>
+          <dc:creator>寺西 一浩</dc:creator>
+          <dc:creator>中野 良子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I028944873-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>インタビュー 妻、母、女優。そしてひとりの女性として 与えられた役割が多いほど人生は楽しい</dc:title>
+          <dc:creator>寺島 しのぶ</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I028985562-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>2020年までの恋人たち(vol.23)</dc:title>
+          <dc:creator>島本 理生</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029022291-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>最新オイルカタログ&amp;ミニレシピつき 和える、炒める、揚げる……使い勝手のよい油は?</dc:title>
+          <dc:creator>青木 絵麻</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029196487-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>人とのつながりが、ますます大事な年頃だから 持ちつ持たれつで煩わせ合ってもいいじゃない</dc:title>
+          <dc:creator>小林 聡美</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029282092-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>同性パートナーとの結婚を祝福されて 性的マイノリティを孤立させない社会のために</dc:title>
+          <dc:creator>ロバート キャンベル</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029345207-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>私と戦争 : こうして暮らしが変わっていった(第6回)海老名香葉子 エッセイスト 家族6人を空襲で亡くして</dc:title>
+          <dc:creator>海老名 香葉子</dc:creator>
+          <dc:creator>堤 江実</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967031-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>最近の技術雑誌から</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967085-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>崖に近接して建築する戸建て住宅の設計事例</dc:title>
+          <dc:creator>渡辺 佳勝</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966341-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>米中貿易摩擦と中国ハイテク産業の現状</dc:title>
+          <dc:creator>丸川 知雄</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966054-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>成立期鎌倉幕府と大河兼任の乱</dc:title>
+          <dc:creator>大島 佳代</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029965759-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Elotespora indica : A new and unusual species of hyphomycetes from India</dc:title>
+          <dc:creator>Chatterjee Sengupta Shreya</dc:creator>
+          <dc:creator>Dubey Rashmi</dc:creator>
+          <dc:language>eng</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029952427-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>北斎『東遊』に描かれた江戸の名所(第19回)新吉原</dc:title>
+          <dc:creator>鈴木 淳</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966094-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>狩野裕基礎工学研究科長へのインタビュー 基礎工学とデータ科学、統計リテラシー</dc:title>
+          <dc:creator>狩野 裕</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966418-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>東北大学附属図書館震災ライブラリー 図書館共同キャンペーン「震災記録を図書館に」で震災資料を収集・公開 : より活用し,日常とつなぐために</dc:title>
+          <dc:creator>小林 真理絵</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029960796-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>商事判例研究(Number 3358)需要代替性を欠く商品を含めて認定された「一定の取引分野」 : エアセパレートガス価格カルテル事件[東京高裁平成28.5.25判決]</dc:title>
+          <dc:creator>大塚 誠</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966850-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>乾燥時間が1/2以下になる高圧熱風乾燥炉(PAT)</dc:title>
+          <dc:creator>高畑 和幸</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966711-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>左肺全摘術後に気管切開を施行された患者に対する気管ステント留置術の麻酔経験</dc:title>
+          <dc:creator>中田 翔</dc:creator>
+          <dc:creator>山本 剛史</dc:creator>
+          <dc:creator>谷口 巧</dc:creator>
+          <dc:subject>肺全摘</dc:subject>
+          <dc:subject>気管ステント留置術</dc:subject>
+          <dc:subject>気管切開</dc:subject>
+          <dc:subject>pneumonectomy</dc:subject>
+          <dc:subject>tracheal stent placement</dc:subject>
+          <dc:subject>tracheostomy</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966888-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>東海5県中心に約400人が参加、ワクチン接種に関する要請決議を採択 : 豚コレラ問題を考える会が愛知県で開催</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967227-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>今月の野菜 セルリー(セロリ)の需給動向</dc:title>
+          <dc:creator>調査情報部</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029965897-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>焦点距離可変レンズ「TAGLENS(タグレンズ)」</dc:title>
+          <dc:creator>山中 雅史</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966103-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>ミトコンドリアを介したオルガネラコンタクトサイト</dc:title>
+          <dc:creator>田村 康</dc:creator>
+          <dc:subject>mitochondria</dc:subject>
+          <dc:subject>endoplasmic reticulum</dc:subject>
+          <dc:subject>organelle contact sites</dc:subject>
+          <dc:subject>phospholipid</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967090-00</identifier>
+        <datestamp>2019-10-01T00:13:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Aromatic Monomer Production from Lignin Depolymerization Predicted from Bond Cleavage Data for Lignin Model Compounds</dc:title>
+          <dc:creator>山口 有朋</dc:creator>
+          <dc:creator>三村 直樹</dc:creator>
+          <dc:creator>白井 誠之</dc:creator>
+          <dc:creator>佐藤 修</dc:creator>
+          <dc:subject>Lignin depolymerization</dc:subject>
+          <dc:subject>Aromatic monomer</dc:subject>
+          <dc:subject>Supercritical water</dc:subject>
+          <dc:subject>Supported metal catalyst</dc:subject>
+          <dc:language>eng</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029074817-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>対談 将来は同居も視野に? 宝塚時代から28年、振り込みも&quot;ばあや&quot;任せです 紫吹淳 女優&amp;ばあや(菅由美子) マネージャー</dc:title>
+          <dc:creator>紫吹 淳</dc:creator>
+          <dc:creator>菅 由美子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029022168-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>インタビュー 曽祖父は六代目尾上菊五郎、祖父は鶴田浩二…… 先祖の気迫に撃たれて3歳で&quot;歌舞伎オタク&quot;に</dc:title>
+          <dc:creator>尾上 右近</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I023987246-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>中日国交正常化40周年特別企画 中国-日本 友好の絆(8)ちば</dc:title>
+          <dc:creator>東京支局</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967197-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>公共的空間の日常に根ざした利活用による地域づくりの推進 : 東海市太田川駅前広場における「まちなかピクニック」の実験的な取り組みから</dc:title>
+          <dc:creator>吉村 輝彦</dc:creator>
+          <dc:subject>公共的空間</dc:subject>
+          <dc:subject>利活用</dc:subject>
+          <dc:subject>プレイスメイキング</dc:subject>
+          <dc:subject>社会実験</dc:subject>
+          <dc:subject>シビックプライド</dc:subject>
+          <dc:subject>プロセスデザイン</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966508-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>令和元年版人権教育・啓発白書について</dc:title>
+          <dc:creator>土手 敏行</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967210-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>需給動向 国内の畜産物の需給動向 牛肉 元年6月の牛肉生産量、前年同月比3.9%減</dc:title>
+          <dc:creator>農畜産業振興機構畜産振興部</dc:creator>
+          <dc:creator>農畜産業振興機構酪農乳業部</dc:creator>
+          <dc:creator>農畜産業振興機構調査情報部</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967182-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Deforestation and forest fragmentation in and around Endau-Rompin National Park, Peninsular Malaysia</dc:title>
+          <dc:creator>Yen Sin Foo</dc:creator>
+          <dc:creator>Shinya Numata</dc:creator>
+          <dc:subject>biodiversity conservation</dc:subject>
+          <dc:subject>buffer zone</dc:subject>
+          <dc:subject>land use and land cover change</dc:subject>
+          <dc:subject>protected area</dc:subject>
+          <dc:subject>remote sensing</dc:subject>
+          <dc:subject>tropical rainforest</dc:subject>
+          <dc:language>eng</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966219-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>重粒子線がん治療装置開発における東芝の取り組み</dc:title>
+          <dc:creator>高山 茂貴</dc:creator>
+          <dc:subject>超電導電磁石</dc:subject>
+          <dc:subject>重粒子線がん治療装置</dc:subject>
+          <dc:subject>回転ガントリー</dc:subject>
+          <dc:subject>シンクロトロン</dc:subject>
+          <dc:subject>superconducting magnet</dc:subject>
+          <dc:subject>heavy-ion radiotherapy</dc:subject>
+          <dc:subject>rotating gantry</dc:subject>
+          <dc:subject>synchrotron</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029965905-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>網膜走査投影技術による眼鏡型ディスプレイの具現化</dc:title>
+          <dc:creator>鈴木 誠</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967011-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>海外技術・マーケット情報 今後1年間の食品トレンドトップ10を予測</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966571-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>書評 鴋澤歩著『鉄道人とナチス : ドイツ国鉄総裁 ユリウス・ドルプミュラーの二十世紀』</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966968-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>表面/材料分析講座 X線光電子分光分析(XPS)</dc:title>
+          <dc:creator>田口 秀之</dc:creator>
+          <dc:subject>分析</dc:subject>
+          <dc:subject>表面分析</dc:subject>
+          <dc:subject>機器分析</dc:subject>
+          <dc:subject>分光分析</dc:subject>
+          <dc:subject>状態分析</dc:subject>
+          <dc:subject>定性分析</dc:subject>
+          <dc:subject>定量分析</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029965978-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>統計を深く知る 高齢化は長寿化が進んだ結果? 長寿化と高齢化の関係についての誤解を解く</dc:title>
+          <dc:creator>別府 志海</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966527-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>『類雑集』翻刻(9)</dc:title>
+          <dc:creator>近世唱導文芸研究会</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029961202-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>10月1日から消費税率引き上げ ご存じですか? 軽減税率制度</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966101-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>大阪大学数理・データ科学教育研究センター(MMDS)の活動</dc:title>
+          <dc:creator>内田 雅之</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029958665-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>東京-高尾間に見る配線・施設の興味や歴史的遺構 中央線ウォッチング</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966405-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>2019 改革者の主張 参院選後の政党制と国民民主党 : 追い風も吹けば逆風も吹く</dc:title>
+          <dc:creator>加藤 秀治郎</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967267-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>成人特発性血小板減少性紫斑病治療の参照ガイド 2019改訂版</dc:title>
+          <dc:creator>柏木 浩和</dc:creator>
+          <dc:creator>桑名 正隆</dc:creator>
+          <dc:creator>羽藤 高明</dc:creator>
+          <dc:creator>高蓋 寿朗</dc:creator>
+          <dc:creator>藤村 欣吾</dc:creator>
+          <dc:creator>倉田 義之</dc:creator>
+          <dc:creator>村田 満</dc:creator>
+          <dc:creator>冨山 佳昭</dc:creator>
+          <dc:subject>ITP</dc:subject>
+          <dc:subject>Thrombopoietin-receptor agonists</dc:subject>
+          <dc:subject>Rituximab</dc:subject>
+          <dc:subject>Splenectomy</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029965850-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>中国特色インバウンド(4)ビジネスツアーの実態 : 気合いの京セラ詣で、グルメ三昧も</dc:title>
+          <dc:creator>山口 亮子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967037-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>未知の活断層による地震動評価に新手法 経過措置設定で原発停止は回避も</dc:title>
+          <dc:creator>釜江 克宏</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029965765-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Differential gene expression and associated metabolite accumulation in fungus Ophiocordyceps xuefengensis cultivated under breathable and airtight conditions</dc:title>
+          <dc:creator>Jian Jin</dc:creator>
+          <dc:creator>You Qin</dc:creator>
+          <dc:creator>Can Zhong</dc:creator>
+          <dc:creator>Rongrong Zhou</dc:creator>
+          <dc:creator>Jing Xie</dc:creator>
+          <dc:creator>Hao Liu</dc:creator>
+          <dc:creator>Juan Xiao</dc:creator>
+          <dc:creator>Ping Cai</dc:creator>
+          <dc:creator>Shuihan Zhang</dc:creator>
+          <dc:creator>Yuhui Qin</dc:creator>
+          <dc:subject>Amino acids</dc:subject>
+          <dc:subject>Cordyceps</dc:subject>
+          <dc:subject>Stress</dc:subject>
+          <dc:subject>Transcriptome</dc:subject>
+          <dc:language>eng</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967205-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>新たな在留資格「特定技能」による農業分野での受入れについて</dc:title>
+          <dc:creator>三橋 孝一</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029965799-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>環境省と経産省が自動車リサイクル合同会議、中国ショックへの対応強化を具体化中 リサイクル料金割引制度先送り、次世代車対応加速化</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029952763-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Adaptive Stepsize Rule for Consensus Optimization by Supervisory Control Architecture</dc:title>
+          <dc:creator>Yoshifumi KUSUNOKI</dc:creator>
+          <dc:creator>Naoki HAYASHI</dc:creator>
+          <dc:creator>Takeshi HATANAKA</dc:creator>
+          <dc:creator>Keiji TATSUMI</dc:creator>
+          <dc:subject>consensus optimization</dc:subject>
+          <dc:subject>stepsize rule</dc:subject>
+          <dc:subject>unconstrained optimization</dc:subject>
+          <dc:language>eng</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967126-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>小児骨系統疾患・全身疾患の診かた</dc:title>
+          <dc:creator>芳賀 信彦</dc:creator>
+          <dc:subject>骨系統疾患 (skeletal dysplasia)</dc:subject>
+          <dc:subject>軟骨無形成症 (achondroplasia)</dc:subject>
+          <dc:subject>骨形成不全症 (osteogenesis imperfecta)</dc:subject>
+          <dc:subject>マルファン症候群 (Marfan syndrome)</dc:subject>
+          <dc:subject>神経線維腫症1型 (neurofibromatosis type 1)</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967247-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>消費者問題 出前講座の作り方(第5回)実践編(1)若者を対象とした講座</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I5001268-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>東南ア経済協力の諸問題</dc:title>
+          <dc:creator>佐瀬 六郎</dc:creator>
+          <dc:subject>対東南アジヤ</dc:subject>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I5001574-00</identifier>
+        <datestamp>2019-10-01T00:14:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>新しい利益の分配の方向</dc:title>
+          <dc:creator>増田 米治</dc:creator>
+          <dc:subject>勞使関係</dc:subject>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I028893081-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>読者体験手記 わが子の窮地に、母は</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029021986-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>表紙の私 日本を離れて</dc:title>
+          <dc:creator>今井 美樹</dc:creator>
+          <dc:creator>Yuri Shinoto</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I028962549-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>読者体験手記 片付かないのは、誰のせい?</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I028962665-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>心とからだの養生学(54)アロマテラピーで心のゆらぎを整える</dc:title>
+          <dc:creator>大田 由紀江</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I028985552-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>たおやかに輪(わ)をえがいて(15)</dc:title>
+          <dc:creator>窪 美澄</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029170771-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>天災から身を守る 日頃の備えと「いざその時」の対処 豪雨、台風、大地震から命を守るために 雨による災害 : これからの季節は要注意</dc:title>
+          <dc:creator>出世 ゆかり</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029075072-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>清水ミチコの三人寄れば無礼講(第16回)音楽と神様</dc:title>
+          <dc:creator>清水 ミチコ</dc:creator>
+          <dc:creator>名越 康文</dc:creator>
+          <dc:creator>鏡 リュウジ</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029345214-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>バブル : ボスと彼女のものがたり(第15回)新会社、はじまる : 大手証券会社勤務・ヤエさんの場合(2)</dc:title>
+          <dc:creator>山口 ミルコ</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029282184-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>心とからだの養生学(65)冬に急増する脳卒中・心筋梗塞を防ぐために 血管が若返る10のルール</dc:title>
+          <dc:creator>大田 由紀江</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966891-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>透析看護 外来血液透析患者の疲労感と種々の要因</dc:title>
+          <dc:creator>中原 宣子</dc:creator>
+          <dc:creator>西口 和美</dc:creator>
+          <dc:creator>泉 暢英</dc:creator>
+          <dc:creator>鶴崎 清之</dc:creator>
+          <dc:creator>楠本 裕美</dc:creator>
+          <dc:creator>荒川 昌洋</dc:creator>
+          <dc:creator>藤原 功一</dc:creator>
+          <dc:subject>疲労感</dc:subject>
+          <dc:subject>栄養</dc:subject>
+          <dc:subject>日常活動量</dc:subject>
+          <dc:subject>透析看護</dc:subject>
+          <dc:subject>fatigue</dc:subject>
+          <dc:subject>nutrition</dc:subject>
+          <dc:subject>physical activity</dc:subject>
+          <dc:subject>nursing care</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029960349-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>加藤厚生労働大臣が就任会見</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966991-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>環境NPOにおけるシニア人材のキャリア構造と能力活用に関する事例研究</dc:title>
+          <dc:creator>竹内 淨</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966065-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>オルガネラを標的とした腎臓病治療薬 : ミトコンドリア標的薬</dc:title>
+          <dc:creator>鈴木 健弘</dc:creator>
+          <dc:creator>阿部 高明</dc:creator>
+          <dc:subject>mitochondrial disease</dc:subject>
+          <dc:subject>mitofilin/Mic60</dc:subject>
+          <dc:subject>ATP</dc:subject>
+          <dc:subject>ATP synthase</dc:subject>
+          <dc:subject>reactive oxygen species (ROS)</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966291-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>症例報告 歯科医師により下顎前突から先端巨大症が疑われた1例</dc:title>
+          <dc:creator>髙瀬 雅大</dc:creator>
+          <dc:creator>髙橋 宏昌</dc:creator>
+          <dc:creator>東山 正明</dc:creator>
+          <dc:creator>加藤 浩一</dc:creator>
+          <dc:creator>永吉 広和</dc:creator>
+          <dc:subject>下顎前突</dc:subject>
+          <dc:subject>先端巨大症</dc:subject>
+          <dc:subject>mandibular protrusion</dc:subject>
+          <dc:subject>acromegaly</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966672-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>2016 Epidemiological Survey of Dermatomycoses in Japan</dc:title>
+          <dc:creator>Harunari Shimoyama</dc:creator>
+          <dc:creator>Yoshihiro Sei</dc:creator>
+          <dc:creator>Epidemiological Investigation Committee for Human Mycoses in the Japanese Society for Medical Mycology</dc:creator>
+          <dc:subject>candidiasis</dc:subject>
+          <dc:subject>dermatomycosis</dc:subject>
+          <dc:subject>dermatophytosis</dc:subject>
+          <dc:subject>epidemiology</dc:subject>
+          <dc:subject>Malassezia infection</dc:subject>
+          <dc:language>eng</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966306-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>医々(いい)トーク(182)世界的近視人類化進む</dc:title>
+          <dc:creator>岸本 由次郎</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966498-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>五・四運動一〇〇周年 中国における青年の評価考</dc:title>
+          <dc:creator>桜井 政美</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029952642-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>熱音響自励振動系に生じる非線形現象</dc:title>
+          <dc:creator>琵琶 哲志</dc:creator>
+          <dc:subject>thermoacoustic oscillations, synchronization, amplitude death phenomenon</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966502-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>民事執行法等の改正の概要</dc:title>
+          <dc:creator>内野 宗揮</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966537-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>重要伝統的建造物群保存地区でのフィールドワーク : 愛媛県西予市卯之町と内子町を対象とした京都教育大学における授業実践</dc:title>
+          <dc:creator>香川 貴志</dc:creator>
+          <dc:subject>重要伝統的建造物群保存地区</dc:subject>
+          <dc:subject>フィールドワーク</dc:subject>
+          <dc:subject>地形図読図</dc:subject>
+          <dc:subject>西予市卯之町</dc:subject>
+          <dc:subject>喜多郡内子町</dc:subject>
+          <dc:subject>Important Preservation Districts for Groups of Historic Buildings</dc:subject>
+          <dc:subject>fieldwork</dc:subject>
+          <dc:subject>map reading</dc:subject>
+          <dc:subject>Unomachi in Seiyo City</dc:subject>
+          <dc:subject>Uchiko Town in Kita-Gun</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966090-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>ミトコンドリアDNAによる自然免疫の誘導と疾患 : cGAS-STING経路を中心に</dc:title>
+          <dc:creator>前川 洋</dc:creator>
+          <dc:subject>mitochondrial DNA</dc:subject>
+          <dc:subject>inflammation</dc:subject>
+          <dc:subject>cGAS-STING pathway</dc:subject>
+          <dc:subject>TLR9</dc:subject>
+          <dc:subject>inflammasome</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967149-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>軽量耐火骨材としてのカルシウムヘキサアルミネート(CA₆)の利用</dc:title>
+          <dc:creator>小山 厚徳</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966810-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>第61回サンガくらぶ 講演(二〇一九年四月二二日 東京) 抜苦与楽でお悩み解決! 新シーズンの人間関係も軽やかに</dc:title>
+          <dc:creator>プラユキ・ナラテボー</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966987-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>シリカフューム : 不定形耐火物の鍵となる材料</dc:title>
+          <dc:creator>ビヨルン ミューラー</dc:creator>
+          <dc:creator>三田寺 啓昭</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966049-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>インド経済序説</dc:title>
+          <dc:creator>谷口 洋志</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I5000130-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>対米関係調整の諸問題</dc:title>
+          <dc:creator>三上 正良</dc:creator>
+          <dc:subject>対アメリカ合衆国</dc:subject>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I024190401-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>報告に盛り込まれた新味</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029099866-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>ヘルシーキッチン 旨みと栄養を閉じ込める なめらか、つるるんレシピ</dc:title>
+          <dc:creator>大庭 英子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I028893117-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>江原啓之の「愛」の人生作法(CASE6)過干渉の母</dc:title>
+          <dc:creator>江原 啓之</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029022072-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>充実したひとり時間を過ごすために あなたはもっと「自分中心」になっていい</dc:title>
+          <dc:creator>石原 加受子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029323123-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>アイドル路線を脱した&quot;おっさん&quot;コーラスグループ、ブレイク進行中! 童謡から昭和歌謡まで。「ベイビー・ブー」が唄う</dc:title>
+          <dc:creator>吉田 明美</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029323134-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>バブル : ボスと彼女のものがたり(第14回)転職前夜 : 大手証券会社勤務・ヤエさんの場合(1)</dc:title>
+          <dc:creator>山口 ミルコ</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029941329-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>西日本豪雨で被災した倉敷市真備地域への移動図書館車の運行について</dc:title>
+          <dc:creator>原田 栄一</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966372-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>幼児の歌唱能力を規定する要因の解明 : 「AIRS歌唱能力テスト子ども用改訂版」と「家庭環境調査票」による調査</dc:title>
+          <dc:creator>小椋 佐奈衣</dc:creator>
+          <dc:creator>安達 真由美</dc:creator>
+          <dc:subject>家庭環境</dc:subject>
+          <dc:subject>音楽的早期教育</dc:subject>
+          <dc:subject>幼児</dc:subject>
+          <dc:subject>歌唱能力</dc:subject>
+          <dc:subject>ATBSS</dc:subject>
+          <dc:subject>home environment</dc:subject>
+          <dc:subject>early education of music</dc:subject>
+          <dc:subject>toddler</dc:subject>
+          <dc:subject>singing ability</dc:subject>
+          <dc:subject>ATBSS</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967360-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>内田鋼一 : 陶藝の未来へと繋ぐ</dc:title>
+          <dc:creator>赤木 明登</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966670-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>超入門! 化学洗浄(10)</dc:title>
+          <dc:creator>伊藤 日出生</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967066-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>北朝鮮金正恩体制の教育学制改編について</dc:title>
+          <dc:creator>宮塚 寿美子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966430-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>介護従事者の就業意識実態調査から ロボット導入は半数が賛成 : 深刻さ増す人材不足と高齢化</dc:title>
+          <dc:creator>村上 久美子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966809-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>インタビュー 精神科医 水島広子氏 ありのままの自分を許し、楽になる。 : 人間関係の悩みを解決する「対人関係療法」からのアプローチ</dc:title>
+          <dc:creator>水島 広子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967088-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>戸建て住宅の液状化地盤における深層混合処理工法の設計事例</dc:title>
+          <dc:creator>八木 正雄</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967105-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>砂浜の利活用の更なる促進に向けて : 地域の特性を活かした「ビーチリゾート」の創出を目指して</dc:title>
+          <dc:creator>菊池 秀之</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966656-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>「ポリファーマシー」について知ってほしい</dc:title>
+          <dc:creator>秋下 雅弘</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966635-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>食品製造業における労働力不足克服ビジョン(令和元年7月公表)</dc:title>
+          <dc:creator>東野 昭浩</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966976-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>指針改訂のポイント 深層混合処理工法の設計</dc:title>
+          <dc:creator>新井 洋</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967316-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>水墨清韻(14)式部輝忠「夏秋花鳥図」 : 豊かな色の水墨画</dc:title>
+          <dc:creator>島尾 新</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966887-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Mass flowering of Himalayacalamus falconeri (Munro) Keng f. in eastern Nepal</dc:title>
+          <dc:creator>久本 洋子</dc:creator>
+          <dc:creator>Prava PANDEY</dc:creator>
+          <dc:subject>Dendrocolamus hookeri</dc:subject>
+          <dc:subject>eastern Nepal</dc:subject>
+          <dc:subject>Himalayacalamus falconeri</dc:subject>
+          <dc:subject>Ilam district</dc:subject>
+          <dc:subject>mass flowering</dc:subject>
+          <dc:language>eng</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I5001575-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>労資関係の新方向</dc:title>
+          <dc:creator>増田 米治</dc:creator>
+          <dc:subject>勞使関係</dc:subject>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I024190444-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>中日国交正常化40周年特別企画 中国-日本 友好の絆(10)洛陽</dc:title>
+          <dc:creator>張 春侠</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I024104948-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>長寿村のお年寄りに会う</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I028962495-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>できた時間は、自分のために 夫の世話をやめました</dc:title>
+          <dc:creator>山田 真理</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I028920812-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>キレのいいパフォーマンスの秘密 黄金の肉体は、24時間365日のコントロールから</dc:title>
+          <dc:creator>郷 ひろみ</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I028921265-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>子どもの反対 遺産相続 介護 墓 熟年再婚、トラブルを回避する7つの心得</dc:title>
+          <dc:creator>新川 てるえ</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029099681-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>気持ちよさを優先すれば、ムダなことが見えてくる 40代からグレイヘアに! 今の私が一番好きです</dc:title>
+          <dc:creator>近藤 サト</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029074926-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>読者体験手記 あぁわが家の金食い虫よ いっそ縁を切れたなら</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I028985135-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>表紙の私 ゆったりとした気持ちで</dc:title>
+          <dc:creator>安藤 サクラ</dc:creator>
+          <dc:creator>Yuri Shinoto</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029345183-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>対談 永田町の意識のズレを身をもって知って あの「育休議員」もイクメンに。妻を追いつめないために夫にできることは</dc:title>
+          <dc:creator>金子 恵美</dc:creator>
+          <dc:creator>宮崎 謙介</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029323062-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>採用条件は社長の&quot;お世話&quot;ができるか 耳を疑うようなセクハラ質問に私は負けない、屈しない!</dc:title>
+          <dc:creator>神名 美玲</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029170783-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>私と戦争 : こうして暮らしが変わっていった(第2回)佐治晴夫 理学博士 機銃掃射の弾が耳元をかすめて</dc:title>
+          <dc:creator>佐治 晴夫</dc:creator>
+          <dc:creator>堤 江実</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029909381-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Protective effect of oil extracted from Neophocaena asiaeorientalis against hydrogen peroxide-induced oxidative stress in HepG2 cells</dc:title>
+          <dc:creator>Hye Ryeong Kim</dc:creator>
+          <dc:creator>Ji Eun Kim</dc:creator>
+          <dc:creator>Woo Bin Yun</dc:creator>
+          <dc:creator>Mi Rim Lee</dc:creator>
+          <dc:creator>Jun Young Choi</dc:creator>
+          <dc:creator>Jin Ju Park</dc:creator>
+          <dc:creator>Bo Ram Song</dc:creator>
+          <dc:creator>Hyun Keun Song</dc:creator>
+          <dc:creator>Dae Youn Hwang</dc:creator>
+          <dc:subject>Antioxidant</dc:subject>
+          <dc:subject>Dolphin</dc:subject>
+          <dc:subject>Fish oil</dc:subject>
+          <dc:subject>Omega-3 fatty acid</dc:subject>
+          <dc:subject>Hepatotoxicity</dc:subject>
+          <dc:subject>Cell viability</dc:subject>
+          <dc:subject>Cell cycle</dc:subject>
+          <dc:subject>Apoptotic protein</dc:subject>
+          <dc:language>eng</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967130-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>経営者に聞く 株式会社オレンジゲート 代表取締役 岩切勝宏氏</dc:title>
+          <dc:creator>岩切 勝宏</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029344991-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>読者体験手記 つきあいの悪い私です</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967352-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>ふるさと飯野町を子どもたちの宝物に</dc:title>
+          <dc:creator>斎藤 憲子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967078-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>小児下肢疾患の診かた(股関節を除く)</dc:title>
+          <dc:creator>藤井 宏真</dc:creator>
+          <dc:creator>米田 梓</dc:creator>
+          <dc:creator>黒川 紘章</dc:creator>
+          <dc:creator>田中 康仁</dc:creator>
+          <dc:subject>先天性足部疾患</dc:subject>
+          <dc:subject>内反膝</dc:subject>
+          <dc:subject>ブラウント病</dc:subject>
+          <dc:subject>外脛骨障害</dc:subject>
+          <dc:subject>足根骨癒合症</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967040-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>特許対象としての適格性(Patent Eligibility)判定に関する2019年USPTO改訂ガイダンス</dc:title>
+          <dc:creator>前川 有希子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966144-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>研究でひと手間を惜しむな!</dc:title>
+          <dc:creator>高木 節雄</dc:creator>
+          <dc:subject>Advice</dc:subject>
+          <dc:subject>Conner-cutting</dc:subject>
+          <dc:subject>Research</dc:subject>
+          <dc:subject>Carefulness</dc:subject>
+          <dc:subject>Sensibility</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966208-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>企業買収における取締役会の行動の規制 : 株式買取価格決定申立事件にみえる米国企業の売却プロセスと比較して</dc:title>
+          <dc:creator>松井 和也</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966318-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>鳩から鷲へのわが軌跡</dc:title>
+          <dc:creator>柏木 康武</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966431-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>共生のための思想と実践 : 大原總一郎の場合(1)</dc:title>
+          <dc:creator>兼田 麗子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029960650-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>独禁法事例速報 価格決定権のない者による情報交換と事業者による「意思の連絡」[東京地裁令和元.5.9判決]</dc:title>
+          <dc:creator>原 悦子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966214-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>伝統技法と最新技術を駆使した職人技が光る! スタジオ・ノーヴァ</dc:title>
+          <dc:creator>片岡 力</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029965900-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>多光子励起レーザー走査型顕微鏡を用いた脳深部観察時に生じる球面収差の自動補正</dc:title>
+          <dc:creator>上 喜裕</dc:creator>
+          <dc:creator>毛内 拡</dc:creator>
+          <dc:creator>宮脇 敦史</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967338-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>サンゴの緑色蛍光は共生藻類の誘引にはたらく</dc:title>
+          <dc:creator>相原 悠介</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966899-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>タケ類に関する試験研究報告等リスト(2016-2018年)</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967180-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>The 21st Century Interview 株式会社グリーンハウス 代表取締役社長 田沼千秋 慶應義塾の学食から世界の健康フードサービス企業へ 食を通して人々の健康に貢献する</dc:title>
+          <dc:creator>田沼 千秋</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967080-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>海外情報 中国の知財関連判決紹介(56)[最高人民法院2018.6.26判決,上海知識産権法院2018.12.20判決,浙江省高級法院2018.12.29判決]</dc:title>
+          <dc:creator>北京魏啓学法律事務所</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029964259-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>お騒がせな特許事件簿(第1話)人工ラジウム特許事件(前)</dc:title>
+          <dc:creator>櫻井 孝</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966212-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>ワクワク、ワンダーランドの人形劇 「動く人形」が育む豊かな感性と想像力。</dc:title>
+          <dc:creator>池田 憲章</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966622-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>食と健康カテゴリー市場創造は健康ハブステ委員会で実践段階に : 「健康食品の販売手法・情報提供等に関する自主基準」策定へ</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967049-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>地方都市における低年齢児保育の利用状況 : 東北地方C市(1990~2000年代前半)の事例から</dc:title>
+          <dc:creator>岩﨑 香織</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I5001306-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>私のマーケッティング(座談会)</dc:title>
+          <dc:creator>清水 晶 他</dc:creator>
+          <dc:subject>市場調査</dc:subject>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I5001256-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>首都圏整備の意義と構想</dc:title>
+          <dc:creator>黒田 俊雄</dc:creator>
+          <dc:subject>工業立地</dc:subject>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I028893128-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>三度目の恋(6)</dc:title>
+          <dc:creator>川上 弘美</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029046761-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>心とからだの養生学(57)認知症を遠ざける&quot;脳番地トレーニング&quot;</dc:title>
+          <dc:creator>佐藤 ゆかり</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029322568-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>もう一度、&quot;自分ファースト&quot;の時代へ 傾けたエネルギーのぶんだけ充実が味わえる</dc:title>
+          <dc:creator>林 真理子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966383-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>日本のまちづくりの現状とグローカル教育 : ポスト・ポストモダニズム時代に求められる人材とは</dc:title>
+          <dc:creator>池ノ上 真一</dc:creator>
+          <dc:subject>縮小社会 (shrinking society)</dc:subject>
+          <dc:subject>ポスト・ポストモダニズム (the post-postmodern)</dc:subject>
+          <dc:subject>グローカル (glocal)</dc:subject>
+          <dc:subject>まち育て (community/area management)</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966361-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>イギリス鉄道史研究動向</dc:title>
+          <dc:creator>冨田 新</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967320-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>名陶再考 : やきものと人と(5)井村彦次郎商会と「色絵花鳥文花瓶 対」</dc:title>
+          <dc:creator>荒川 正明</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967041-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>特集 覚醒するLPガス : 生活基幹エネルギーへの挑戦</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966583-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>機械学習を用いた歪みエフェクタのブラックボックスモデリング</dc:title>
+          <dc:creator>松永 悠斗</dc:creator>
+          <dc:creator>青木 直史</dc:creator>
+          <dc:creator>土橋 宜典</dc:creator>
+          <dc:creator>小嶋 徹也</dc:creator>
+          <dc:subject>デジタルモデリング</dc:subject>
+          <dc:subject>歪みエフェクタ</dc:subject>
+          <dc:subject>機械学習</dc:subject>
+          <dc:subject>Digital Modeling</dc:subject>
+          <dc:subject>Distortion Stomp Box</dc:subject>
+          <dc:subject>Machine Learning</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967287-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>女人京都(第2回)神に仕えた皇族女子「斎王」たちのサロン</dc:title>
+          <dc:creator>酒井 順子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967179-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>航空今昔物語 : エアカーゴ : 故(ふる)きを温(たず)ねて新しきを知ろう(第21回)貨物教育に心魂傾けた後半生 : 世界の若者に航空輸送の面白さを語り続けた</dc:title>
+          <dc:creator>木下 達雄</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966552-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>センターだより JRお助け隊コンシェルジュと銀山の地下アイドルで地域活性化 : 公益社団法人朝来市シルバー人材センター(兵庫県)</dc:title>
+          <dc:creator>下口 光子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966391-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>白血病治療の革命をもたらした三十年前の日本の基礎研究</dc:title>
+          <dc:creator>豊嶋 崇徳</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966499-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>児童虐待から子どもを救う</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029964424-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>ASEANと中国との自由貿易地域(ACFTA)構築作業とその新展開</dc:title>
+          <dc:creator>助川 成也</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966168-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>不真正不作為犯における作為義務の根拠論 : 諸要素の位置づけの再検討</dc:title>
+          <dc:creator>奥田 菜津</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967327-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>地域の取り組みに関する意見交換会 : 愛媛県西条市</dc:title>
+          <dc:creator>蛯原 雅之</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029965797-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>新たなCAS検討分科会パブコメ、パナソニックや主婦連は意見提出せず</dc:title>
+          <dc:subject>放送政策</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029965983-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>セルフパワード型空気式歩行支援シューズの開発</dc:title>
+          <dc:creator>高岩 昌弘</dc:creator>
+          <dc:creator>松井 保子</dc:creator>
+          <dc:subject>歩行支援</dc:subject>
+          <dc:subject>シューズ</dc:subject>
+          <dc:subject>空気圧システム</dc:subject>
+          <dc:subject>セルフパワー</dc:subject>
+          <dc:subject>Walking support</dc:subject>
+          <dc:subject>Shoes</dc:subject>
+          <dc:subject>Pneumatic drive system</dc:subject>
+          <dc:subject>self power</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966677-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>PATを用いた新しい組織移植 : NPWTを併用した一期的PAT・植皮術</dc:title>
+          <dc:creator>安倍 吉郎</dc:creator>
+          <dc:creator>橋本 一郎</dc:creator>
+          <dc:subject>PAT</dc:subject>
+          <dc:subject>植皮</dc:subject>
+          <dc:subject>一期的再建</dc:subject>
+          <dc:subject>NPWT</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966379-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>会議報告 ICMPC 15(ESCOM10)参加報告</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I5000083-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>中国の経済学と経済学者</dc:title>
+          <dc:creator>小椋 広勝</dc:creator>
+          <dc:subject>中国</dc:subject>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029132889-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Dear Woman(5)ファッション×ビュー くつろぎのロング&amp;リーン</dc:title>
+          <dc:creator>中馬 あかね</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029132952-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>三度目の恋(15)</dc:title>
+          <dc:creator>川上 弘美</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966183-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>講演 改訂版CGコードに対応したCG報告書の分析</dc:title>
+          <dc:creator>太子堂 厚子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029075140-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>2020年までの恋人たち(vol.26)</dc:title>
+          <dc:creator>島本 理生</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966507-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>債権執行事件の終了・差押禁止債権をめぐる規律の見直し</dc:title>
+          <dc:creator>谷藤 一弥</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966691-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>ストレスと腸内細菌叢 : 乳酸菌を用いた新たな健康戦略</dc:title>
+          <dc:creator>六反 一仁</dc:creator>
+          <dc:creator>桑野 由紀</dc:creator>
+          <dc:creator>西田 憲生</dc:creator>
+          <dc:subject>脳腸軸</dc:subject>
+          <dc:subject>腸内細菌叢</dc:subject>
+          <dc:subject>ストレス</dc:subject>
+          <dc:subject>乳酸菌</dc:subject>
+          <dc:subject>Brain-gut axis</dc:subject>
+          <dc:subject>Gut microbiota</dc:subject>
+          <dc:subject>Stress</dc:subject>
+          <dc:subject>Lactic acid bacteria</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966374-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>はじめての熊本ゆかりの詩人(3)丸山董への手紙 : 蔵原伸二郎・中村汀女</dc:title>
+          <dc:creator>岩本 晃代</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967332-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>名水を訪ねて(126)島原半島の名水(再訪)</dc:title>
+          <dc:creator>利部 慎</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029960897-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>最高裁時の判例 刑事 1.心神喪失等の状態で重大な他害行為を行った者の医療及び観察等に関する法律の再抗告事件において同法70条1項所定の理由以外の理由により原決定を取り消すことの可否 2.心神喪失等の状態で重大な他害行為を行った者の医療及び観察等に関する法律による入院決定を受けた対象者からの同法による医療の終了の申立て及び指定入院医療機関の管理者からの退院の許可の申立てを棄却した各原々決定及びこれを維持した各原決定に審理不尽の違法があるとされた事例[平成29.12.25決定]</dc:title>
+          <dc:creator>三上 潤</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966287-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>自著を語る 生きることと書くこと[井上佳子『戦地巡歴 : わが祖父の声を聴く』]</dc:title>
+          <dc:creator>井上 佳子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966791-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>大学が地域課題を学ぶ意義を問い直す</dc:title>
+          <dc:creator>畑 正夫</dc:creator>
+          <dc:creator>長岡 素彦</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029941341-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>『ニューヨーク公共図書館 エクス・リブリス』を見て考えたこと</dc:title>
+          <dc:creator>稲垣 真穂</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967115-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>施設間の連携やBCPを視野に災害対応を高度化「札幌駅ビル・JRタワー」</dc:title>
+          <dc:creator>田中 千賀子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966863-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>放射状MRIを用いた肩腱板断裂に対する術前および術後画像評価</dc:title>
+          <dc:creator>横矢 晋</dc:creator>
+          <dc:creator>根木 宏</dc:creator>
+          <dc:creator>松下 亮介</dc:creator>
+          <dc:creator>穐山 雄次</dc:creator>
+          <dc:creator>安達 伸生</dc:creator>
+          <dc:subject>放射状MRI (radial sequence MRI)</dc:subject>
+          <dc:subject>腱板修復状態 (cuff integrity)</dc:subject>
+          <dc:subject>腱板断裂 (rotator cuff tear)</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966170-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>保育者養成者のおかれている現状と課題 : 実践者と共に創る保育者養成</dc:title>
+          <dc:creator>清水 益治</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967192-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>日中民事訴訟手続の基本構造の比較</dc:title>
+          <dc:creator>朱 省志</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967015-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>複式簿記と企業会計についての一考察</dc:title>
+          <dc:creator>吉田 真理子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966600-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>定仙の受法について(3)三宝院流の受法</dc:title>
+          <dc:creator>大八木 隆祥</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029960344-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>新たな全世代型社会保障検討会議を設置へ</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967114-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>大洗海の大学における令和時代の海岸活用の取り組み</dc:title>
+          <dc:creator>光又 新二</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966500-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>「出入国在留管理基本計画」の策定について</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966933-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>回復期病棟に入棟した人工膝関節全置換術患者におけるバランス機能の改善と下肢筋力・足部機能の関連性</dc:title>
+          <dc:creator>池田 崇</dc:creator>
+          <dc:creator>松永 勇紀</dc:creator>
+          <dc:creator>宮澤 僚</dc:creator>
+          <dc:creator>神原 雅典</dc:creator>
+          <dc:creator>高木 博</dc:creator>
+          <dc:creator>中村 大介</dc:creator>
+          <dc:subject>人工膝関節全置換術 (total knee arthroplasty)</dc:subject>
+          <dc:subject>バランス能力 (balance ability)</dc:subject>
+          <dc:subject>回復期病棟 (convalescent ward)</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966852-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>第14回 日本臨床検査学教育学会学術大会 抄録集</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029965771-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>SJNK SDGsを知らない人が7割 : 社会的課題・SDGsに関する意識調査結果を公表</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966786-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>威毛を描く : 邦ちゃんとの思い出</dc:title>
+          <dc:creator>三浦 一郎</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I5000147-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>国連加盟とその影響</dc:title>
+          <dc:creator>五味 三勇</dc:creator>
+          <dc:subject>国際連合</dc:subject>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I5001061-00</identifier>
+        <datestamp>2019-10-01T00:14:46Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>米株式暴落と景気の前途</dc:title>
+          <dc:subject>経済</dc:subject>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I023900931-00</identifier>
+        <datestamp>2019-10-01T00:14:47Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>国有機関の体質を改善</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029046794-00</identifier>
+        <datestamp>2019-10-01T00:14:47Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Q&amp;A その時がきても、慌てず対処 知っておきたい! 年を重ねた犬&amp;猫のケア</dc:title>
+          <dc:creator>須﨑 恭彦</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I028962711-00</identifier>
+        <datestamp>2019-10-01T00:14:47Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>アンケート結果発表 85名のサバイバーが語る 闘病中の不安、治療後の戸惑い…… 私の心と体に起こった変化 : 治療後10年以上を経た方、まずは「5年」を目指している方、現在治療中の方……さまざまな状況下でがんと向き合う、経験者の声を聞きました</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I028962628-00</identifier>
+        <datestamp>2019-10-01T00:14:47Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Dear Woman(2)ファッション×ビュー ギンガムをしとやかに</dc:title>
+          <dc:creator>中馬 あかね</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029217170-00</identifier>
+        <datestamp>2019-10-01T00:14:47Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>表紙の私 肩肘を張らず</dc:title>
+          <dc:creator>有働 由美子</dc:creator>
+          <dc:creator>Yuri Shinoto</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029099741-00</identifier>
+        <datestamp>2019-10-01T00:14:47Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>誰にも媚びず、信念を曲げず 28年演じ続けた役を卒業。ロック歌手として新たなステージへ</dc:title>
+          <dc:creator>梶 芽衣子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029132931-00</identifier>
+        <datestamp>2019-10-01T00:14:47Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>介護には同居が必要? 運転をやめてほしい 空き家をどうしよう…… Q&amp;A それぞれのお家事情に、4人のプロがアドバイス!</dc:title>
+          <dc:creator>太田 差惠子</dc:creator>
+          <dc:creator>所 正文</dc:creator>
+          <dc:creator>池野 総克</dc:creator>
+          <dc:creator>曽根 恵子</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966506-00</identifier>
+        <datestamp>2019-10-01T00:14:47Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>国内における子の引渡しの強制執行に関する規律の明確化と国際的な子の返還の強制執行に関する規律の見直し</dc:title>
+          <dc:creator>阿多 博文</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967220-00</identifier>
+        <datestamp>2019-10-01T00:14:47Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>需給動向 東京都・大阪市中央卸売市場の需給動向(令和元年7月)</dc:title>
+          <dc:creator>野菜振興部</dc:creator>
+          <dc:creator>調査情報部</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029960401-00</identifier>
+        <datestamp>2019-10-01T00:14:47Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>令和2年度介護保険関係の概算要求</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966152-00</identifier>
+        <datestamp>2019-10-01T00:14:47Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>業界情報 平成30(2018)年のFRP関連統計</dc:title>
+          <dc:creator>髙橋 儀徳</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967167-00</identifier>
+        <datestamp>2019-10-01T00:14:47Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>黒毛和種にビール粕サイレージ給与をした場合の飼料費および枝肉成績に及ぼす影響</dc:title>
+          <dc:creator>北山 梨樹</dc:creator>
+          <dc:creator>西寒水 将</dc:creator>
+          <dc:creator>今井 敬</dc:creator>
+          <dc:creator>堂地 修</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966388-00</identifier>
+        <datestamp>2019-10-01T00:14:47Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>厚生労働省関係情報通知 使用薬剤の薬価(薬価基準)の一部改正等について</dc:title>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029966756-00</identifier>
+        <datestamp>2019-10-01T00:14:47Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>舗装再生技術の変遷と再生加熱アスファルト混合物の性能向上に関する一考察</dc:title>
+          <dc:creator>瀬尾 彰</dc:creator>
+          <dc:subject>再生</dc:subject>
+          <dc:subject>リサイクル</dc:subject>
+          <dc:subject>繰返し再生</dc:subject>
+          <dc:subject>再生添加剤</dc:subject>
+          <dc:subject>維持修繕</dc:subject>
+          <dc:subject>アスファルト</dc:subject>
+          <dc:subject>組成</dc:subject>
+          <dc:subject>均一性</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029967048-00</identifier>
+        <datestamp>2019-10-01T00:14:47Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>蘇生の歴史(31)血液循環の発見(5)Francisco de la Reyna</dc:title>
+          <dc:creator>浅井 隆</dc:creator>
+          <dc:subject>歴史</dc:subject>
+          <dc:subject>呼吸</dc:subject>
+          <dc:subject>呼吸管理</dc:subject>
+          <dc:subject>history</dc:subject>
+          <dc:subject>resuscitation</dc:subject>
+          <dc:subject>blood circulation</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I029965840-00</identifier>
+        <datestamp>2019-10-01T00:14:47Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>ラグビーワールドカップや国際映画祭などで5Gプレサービス展開、NTTドコモ</dc:title>
+          <dc:subject>5G</dc:subject>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I023430384-00</identifier>
+        <datestamp>2019-10-01T00:14:47Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>特集 「クリエイティブ(創意産業)」が北京を照らす</dc:title>
+          <dc:creator>王 志</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:iss.ndl.go.jp:R000000004-I023900986-00</identifier>
+        <datestamp>2019-10-01T00:14:47Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>中日国交正常化40周年特別企画 中国-日本 友好の絆(6)ながの</dc:title>
+          <dc:creator>東京支局</dc:creator>
+          <dc:language>jpn</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>
