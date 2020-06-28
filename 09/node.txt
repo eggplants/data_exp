@@ -1,0 +1,11 @@
+1|books|element
+2|book|element
+3|title|element
+4|草枕|text
+5|author|element
+6|夏目漱石|text
+7|book|element
+8|title|element
+9|こゝろ|text
+10|author|element
+11|夏目漱石|text

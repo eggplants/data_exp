@@ -1,0 +1,3286 @@
+1|OAI-PMH|element
+2|ListRecords|element
+3|record|element
+4|header|element
+5|identifier|element
+6|oai:iss.ndl.go.jp:R000000004-I028944818-00|text
+7|datestamp|element
+8|2019-10-01T00:13:09Z|text
+9|metadata|element
+10|dc|element
+11|title|element
+12|人は前頭葉から老いていく!? 40代・娘代表が専門医に質問! 「老化」と「病」のサインを教えてください : 対談 和田秀樹 精神科医×大田垣晴子 画文家|text
+13|creator|element
+14|和田 秀樹|text
+15|creator|element
+16|大田垣 晴子|text
+17|language|element
+18|jpn|text
+19|record|element
+20|header|element
+21|identifier|element
+22|oai:iss.ndl.go.jp:R000000004-I023786604-00|text
+23|datestamp|element
+24|2019-10-01T00:13:09Z|text
+25|metadata|element
+26|dc|element
+27|title|element
+28|Interview 中国と日本を舞台に女優への道描く : 国交正常化40周年記念映画『女優』|text
+29|creator|element
+30|光部愛 単涛|text
+31|creator|element
+32|寺西 一浩|text
+33|creator|element
+34|中野 良子|text
+35|language|element
+36|jpn|text
+37|record|element
+38|header|element
+39|identifier|element
+40|oai:iss.ndl.go.jp:R000000004-I028944873-00|text
+41|datestamp|element
+42|2019-10-01T00:13:09Z|text
+43|metadata|element
+44|dc|element
+45|title|element
+46|インタビュー 妻、母、女優。そしてひとりの女性として 与えられた役割が多いほど人生は楽しい|text
+47|creator|element
+48|寺島 しのぶ|text
+49|language|element
+50|jpn|text
+51|record|element
+52|header|element
+53|identifier|element
+54|oai:iss.ndl.go.jp:R000000004-I028985562-00|text
+55|datestamp|element
+56|2019-10-01T00:13:09Z|text
+57|metadata|element
+58|dc|element
+59|title|element
+60|2020年までの恋人たち(vol.23)|text
+61|creator|element
+62|島本 理生|text
+63|language|element
+64|jpn|text
+65|record|element
+66|header|element
+67|identifier|element
+68|oai:iss.ndl.go.jp:R000000004-I029022291-00|text
+69|datestamp|element
+70|2019-10-01T00:13:09Z|text
+71|metadata|element
+72|dc|element
+73|title|element
+74|最新オイルカタログ&amp;ミニレシピつき 和える、炒める、揚げる……使い勝手のよい油は?|text
+75|creator|element
+76|青木 絵麻|text
+77|language|element
+78|jpn|text
+79|record|element
+80|header|element
+81|identifier|element
+82|oai:iss.ndl.go.jp:R000000004-I029196487-00|text
+83|datestamp|element
+84|2019-10-01T00:13:09Z|text
+85|metadata|element
+86|dc|element
+87|title|element
+88|人とのつながりが、ますます大事な年頃だから 持ちつ持たれつで煩わせ合ってもいいじゃない|text
+89|creator|element
+90|小林 聡美|text
+91|language|element
+92|jpn|text
+93|record|element
+94|header|element
+95|identifier|element
+96|oai:iss.ndl.go.jp:R000000004-I029282092-00|text
+97|datestamp|element
+98|2019-10-01T00:13:09Z|text
+99|metadata|element
+100|dc|element
+101|title|element
+102|同性パートナーとの結婚を祝福されて 性的マイノリティを孤立させない社会のために|text
+103|creator|element
+104|ロバート キャンベル|text
+105|language|element
+106|jpn|text
+107|record|element
+108|header|element
+109|identifier|element
+110|oai:iss.ndl.go.jp:R000000004-I029345207-00|text
+111|datestamp|element
+112|2019-10-01T00:13:09Z|text
+113|metadata|element
+114|dc|element
+115|title|element
+116|私と戦争 : こうして暮らしが変わっていった(第6回)海老名香葉子 エッセイスト 家族6人を空襲で亡くして|text
+117|creator|element
+118|海老名 香葉子|text
+119|creator|element
+120|堤 江実|text
+121|language|element
+122|jpn|text
+123|record|element
+124|header|element
+125|identifier|element
+126|oai:iss.ndl.go.jp:R000000004-I029967031-00|text
+127|datestamp|element
+128|2019-10-01T00:13:09Z|text
+129|metadata|element
+130|dc|element
+131|title|element
+132|最近の技術雑誌から|text
+133|language|element
+134|jpn|text
+135|record|element
+136|header|element
+137|identifier|element
+138|oai:iss.ndl.go.jp:R000000004-I029967085-00|text
+139|datestamp|element
+140|2019-10-01T00:13:09Z|text
+141|metadata|element
+142|dc|element
+143|title|element
+144|崖に近接して建築する戸建て住宅の設計事例|text
+145|creator|element
+146|渡辺 佳勝|text
+147|language|element
+148|jpn|text
+149|record|element
+150|header|element
+151|identifier|element
+152|oai:iss.ndl.go.jp:R000000004-I029966341-00|text
+153|datestamp|element
+154|2019-10-01T00:13:09Z|text
+155|metadata|element
+156|dc|element
+157|title|element
+158|米中貿易摩擦と中国ハイテク産業の現状|text
+159|creator|element
+160|丸川 知雄|text
+161|language|element
+162|jpn|text
+163|record|element
+164|header|element
+165|identifier|element
+166|oai:iss.ndl.go.jp:R000000004-I029966054-00|text
+167|datestamp|element
+168|2019-10-01T00:13:09Z|text
+169|metadata|element
+170|dc|element
+171|title|element
+172|成立期鎌倉幕府と大河兼任の乱|text
+173|creator|element
+174|大島 佳代|text
+175|language|element
+176|jpn|text
+177|record|element
+178|header|element
+179|identifier|element
+180|oai:iss.ndl.go.jp:R000000004-I029965759-00|text
+181|datestamp|element
+182|2019-10-01T00:13:09Z|text
+183|metadata|element
+184|dc|element
+185|title|element
+186|Elotespora indica : A new and unusual species of hyphomycetes from India|text
+187|creator|element
+188|Chatterjee Sengupta Shreya|text
+189|creator|element
+190|Dubey Rashmi|text
+191|language|element
+192|eng|text
+193|record|element
+194|header|element
+195|identifier|element
+196|oai:iss.ndl.go.jp:R000000004-I029952427-00|text
+197|datestamp|element
+198|2019-10-01T00:13:09Z|text
+199|metadata|element
+200|dc|element
+201|title|element
+202|北斎『東遊』に描かれた江戸の名所(第19回)新吉原|text
+203|creator|element
+204|鈴木 淳|text
+205|language|element
+206|jpn|text
+207|record|element
+208|header|element
+209|identifier|element
+210|oai:iss.ndl.go.jp:R000000004-I029966094-00|text
+211|datestamp|element
+212|2019-10-01T00:13:09Z|text
+213|metadata|element
+214|dc|element
+215|title|element
+216|狩野裕基礎工学研究科長へのインタビュー 基礎工学とデータ科学、統計リテラシー|text
+217|creator|element
+218|狩野 裕|text
+219|language|element
+220|jpn|text
+221|record|element
+222|header|element
+223|identifier|element
+224|oai:iss.ndl.go.jp:R000000004-I029966418-00|text
+225|datestamp|element
+226|2019-10-01T00:13:09Z|text
+227|metadata|element
+228|dc|element
+229|title|element
+230|東北大学附属図書館震災ライブラリー 図書館共同キャンペーン「震災記録を図書館に」で震災資料を収集・公開 : より活用し,日常とつなぐために|text
+231|creator|element
+232|小林 真理絵|text
+233|language|element
+234|jpn|text
+235|record|element
+236|header|element
+237|identifier|element
+238|oai:iss.ndl.go.jp:R000000004-I029960796-00|text
+239|datestamp|element
+240|2019-10-01T00:13:09Z|text
+241|metadata|element
+242|dc|element
+243|title|element
+244|商事判例研究(Number 3358)需要代替性を欠く商品を含めて認定された「一定の取引分野」 : エアセパレートガス価格カルテル事件[東京高裁平成28.5.25判決]|text
+245|creator|element
+246|大塚 誠|text
+247|language|element
+248|jpn|text
+249|record|element
+250|header|element
+251|identifier|element
+252|oai:iss.ndl.go.jp:R000000004-I029966850-00|text
+253|datestamp|element
+254|2019-10-01T00:13:09Z|text
+255|metadata|element
+256|dc|element
+257|title|element
+258|乾燥時間が1/2以下になる高圧熱風乾燥炉(PAT)|text
+259|creator|element
+260|高畑 和幸|text
+261|language|element
+262|jpn|text
+263|record|element
+264|header|element
+265|identifier|element
+266|oai:iss.ndl.go.jp:R000000004-I029966711-00|text
+267|datestamp|element
+268|2019-10-01T00:13:09Z|text
+269|metadata|element
+270|dc|element
+271|title|element
+272|左肺全摘術後に気管切開を施行された患者に対する気管ステント留置術の麻酔経験|text
+273|creator|element
+274|中田 翔|text
+275|creator|element
+276|山本 剛史|text
+277|creator|element
+278|谷口 巧|text
+279|subject|element
+280|肺全摘|text
+281|subject|element
+282|気管ステント留置術|text
+283|subject|element
+284|気管切開|text
+285|subject|element
+286|pneumonectomy|text
+287|subject|element
+288|tracheal stent placement|text
+289|subject|element
+290|tracheostomy|text
+291|language|element
+292|jpn|text
+293|record|element
+294|header|element
+295|identifier|element
+296|oai:iss.ndl.go.jp:R000000004-I029966888-00|text
+297|datestamp|element
+298|2019-10-01T00:13:09Z|text
+299|metadata|element
+300|dc|element
+301|title|element
+302|東海5県中心に約400人が参加、ワクチン接種に関する要請決議を採択 : 豚コレラ問題を考える会が愛知県で開催|text
+303|language|element
+304|jpn|text
+305|record|element
+306|header|element
+307|identifier|element
+308|oai:iss.ndl.go.jp:R000000004-I029967227-00|text
+309|datestamp|element
+310|2019-10-01T00:13:09Z|text
+311|metadata|element
+312|dc|element
+313|title|element
+314|今月の野菜 セルリー(セロリ)の需給動向|text
+315|creator|element
+316|調査情報部|text
+317|language|element
+318|jpn|text
+319|record|element
+320|header|element
+321|identifier|element
+322|oai:iss.ndl.go.jp:R000000004-I029965897-00|text
+323|datestamp|element
+324|2019-10-01T00:13:09Z|text
+325|metadata|element
+326|dc|element
+327|title|element
+328|焦点距離可変レンズ「TAGLENS(タグレンズ)」|text
+329|creator|element
+330|山中 雅史|text
+331|language|element
+332|jpn|text
+333|record|element
+334|header|element
+335|identifier|element
+336|oai:iss.ndl.go.jp:R000000004-I029966103-00|text
+337|datestamp|element
+338|2019-10-01T00:13:09Z|text
+339|metadata|element
+340|dc|element
+341|title|element
+342|ミトコンドリアを介したオルガネラコンタクトサイト|text
+343|creator|element
+344|田村 康|text
+345|subject|element
+346|mitochondria|text
+347|subject|element
+348|endoplasmic reticulum|text
+349|subject|element
+350|organelle contact sites|text
+351|subject|element
+352|phospholipid|text
+353|language|element
+354|jpn|text
+355|record|element
+356|header|element
+357|identifier|element
+358|oai:iss.ndl.go.jp:R000000004-I029967090-00|text
+359|datestamp|element
+360|2019-10-01T00:13:09Z|text
+361|metadata|element
+362|dc|element
+363|title|element
+364|Aromatic Monomer Production from Lignin Depolymerization Predicted from Bond Cleavage Data for Lignin Model Compounds|text
+365|creator|element
+366|山口 有朋|text
+367|creator|element
+368|三村 直樹|text
+369|creator|element
+370|白井 誠之|text
+371|creator|element
+372|佐藤 修|text
+373|subject|element
+374|Lignin depolymerization|text
+375|subject|element
+376|Aromatic monomer|text
+377|subject|element
+378|Supercritical water|text
+379|subject|element
+380|Supported metal catalyst|text
+381|language|element
+382|eng|text
+383|record|element
+384|header|element
+385|identifier|element
+386|oai:iss.ndl.go.jp:R000000004-I029074817-00|text
+387|datestamp|element
+388|2019-10-01T00:14:45Z|text
+389|metadata|element
+390|dc|element
+391|title|element
+392|対談 将来は同居も視野に? 宝塚時代から28年、振り込みも&quot;ばあや&quot;任せです 紫吹淳 女優&amp;ばあや(菅由美子) マネージャー|text
+393|creator|element
+394|紫吹 淳|text
+395|creator|element
+396|菅 由美子|text
+397|language|element
+398|jpn|text
+399|record|element
+400|header|element
+401|identifier|element
+402|oai:iss.ndl.go.jp:R000000004-I029022168-00|text
+403|datestamp|element
+404|2019-10-01T00:14:45Z|text
+405|metadata|element
+406|dc|element
+407|title|element
+408|インタビュー 曽祖父は六代目尾上菊五郎、祖父は鶴田浩二…… 先祖の気迫に撃たれて3歳で&quot;歌舞伎オタク&quot;に|text
+409|creator|element
+410|尾上 右近|text
+411|language|element
+412|jpn|text
+413|record|element
+414|header|element
+415|identifier|element
+416|oai:iss.ndl.go.jp:R000000004-I023987246-00|text
+417|datestamp|element
+418|2019-10-01T00:14:45Z|text
+419|metadata|element
+420|dc|element
+421|title|element
+422|中日国交正常化40周年特別企画 中国-日本 友好の絆(8)ちば|text
+423|creator|element
+424|東京支局|text
+425|language|element
+426|jpn|text
+427|record|element
+428|header|element
+429|identifier|element
+430|oai:iss.ndl.go.jp:R000000004-I029967197-00|text
+431|datestamp|element
+432|2019-10-01T00:14:45Z|text
+433|metadata|element
+434|dc|element
+435|title|element
+436|公共的空間の日常に根ざした利活用による地域づくりの推進 : 東海市太田川駅前広場における「まちなかピクニック」の実験的な取り組みから|text
+437|creator|element
+438|吉村 輝彦|text
+439|subject|element
+440|公共的空間|text
+441|subject|element
+442|利活用|text
+443|subject|element
+444|プレイスメイキング|text
+445|subject|element
+446|社会実験|text
+447|subject|element
+448|シビックプライド|text
+449|subject|element
+450|プロセスデザイン|text
+451|language|element
+452|jpn|text
+453|record|element
+454|header|element
+455|identifier|element
+456|oai:iss.ndl.go.jp:R000000004-I029966508-00|text
+457|datestamp|element
+458|2019-10-01T00:14:45Z|text
+459|metadata|element
+460|dc|element
+461|title|element
+462|令和元年版人権教育・啓発白書について|text
+463|creator|element
+464|土手 敏行|text
+465|language|element
+466|jpn|text
+467|record|element
+468|header|element
+469|identifier|element
+470|oai:iss.ndl.go.jp:R000000004-I029967210-00|text
+471|datestamp|element
+472|2019-10-01T00:14:45Z|text
+473|metadata|element
+474|dc|element
+475|title|element
+476|需給動向 国内の畜産物の需給動向 牛肉 元年6月の牛肉生産量、前年同月比3.9%減|text
+477|creator|element
+478|農畜産業振興機構畜産振興部|text
+479|creator|element
+480|農畜産業振興機構酪農乳業部|text
+481|creator|element
+482|農畜産業振興機構調査情報部|text
+483|language|element
+484|jpn|text
+485|record|element
+486|header|element
+487|identifier|element
+488|oai:iss.ndl.go.jp:R000000004-I029967182-00|text
+489|datestamp|element
+490|2019-10-01T00:14:45Z|text
+491|metadata|element
+492|dc|element
+493|title|element
+494|Deforestation and forest fragmentation in and around Endau-Rompin National Park, Peninsular Malaysia|text
+495|creator|element
+496|Yen Sin Foo|text
+497|creator|element
+498|Shinya Numata|text
+499|subject|element
+500|biodiversity conservation|text
+501|subject|element
+502|buffer zone|text
+503|subject|element
+504|land use and land cover change|text
+505|subject|element
+506|protected area|text
+507|subject|element
+508|remote sensing|text
+509|subject|element
+510|tropical rainforest|text
+511|language|element
+512|eng|text
+513|record|element
+514|header|element
+515|identifier|element
+516|oai:iss.ndl.go.jp:R000000004-I029966219-00|text
+517|datestamp|element
+518|2019-10-01T00:14:45Z|text
+519|metadata|element
+520|dc|element
+521|title|element
+522|重粒子線がん治療装置開発における東芝の取り組み|text
+523|creator|element
+524|高山 茂貴|text
+525|subject|element
+526|超電導電磁石|text
+527|subject|element
+528|重粒子線がん治療装置|text
+529|subject|element
+530|回転ガントリー|text
+531|subject|element
+532|シンクロトロン|text
+533|subject|element
+534|superconducting magnet|text
+535|subject|element
+536|heavy-ion radiotherapy|text
+537|subject|element
+538|rotating gantry|text
+539|subject|element
+540|synchrotron|text
+541|language|element
+542|jpn|text
+543|record|element
+544|header|element
+545|identifier|element
+546|oai:iss.ndl.go.jp:R000000004-I029965905-00|text
+547|datestamp|element
+548|2019-10-01T00:14:45Z|text
+549|metadata|element
+550|dc|element
+551|title|element
+552|網膜走査投影技術による眼鏡型ディスプレイの具現化|text
+553|creator|element
+554|鈴木 誠|text
+555|language|element
+556|jpn|text
+557|record|element
+558|header|element
+559|identifier|element
+560|oai:iss.ndl.go.jp:R000000004-I029967011-00|text
+561|datestamp|element
+562|2019-10-01T00:14:45Z|text
+563|metadata|element
+564|dc|element
+565|title|element
+566|海外技術・マーケット情報 今後1年間の食品トレンドトップ10を予測|text
+567|language|element
+568|jpn|text
+569|record|element
+570|header|element
+571|identifier|element
+572|oai:iss.ndl.go.jp:R000000004-I029966571-00|text
+573|datestamp|element
+574|2019-10-01T00:14:45Z|text
+575|metadata|element
+576|dc|element
+577|title|element
+578|書評 鴋澤歩著『鉄道人とナチス : ドイツ国鉄総裁 ユリウス・ドルプミュラーの二十世紀』|text
+579|language|element
+580|jpn|text
+581|record|element
+582|header|element
+583|identifier|element
+584|oai:iss.ndl.go.jp:R000000004-I029966968-00|text
+585|datestamp|element
+586|2019-10-01T00:14:45Z|text
+587|metadata|element
+588|dc|element
+589|title|element
+590|表面/材料分析講座 X線光電子分光分析(XPS)|text
+591|creator|element
+592|田口 秀之|text
+593|subject|element
+594|分析|text
+595|subject|element
+596|表面分析|text
+597|subject|element
+598|機器分析|text
+599|subject|element
+600|分光分析|text
+601|subject|element
+602|状態分析|text
+603|subject|element
+604|定性分析|text
+605|subject|element
+606|定量分析|text
+607|language|element
+608|jpn|text
+609|record|element
+610|header|element
+611|identifier|element
+612|oai:iss.ndl.go.jp:R000000004-I029965978-00|text
+613|datestamp|element
+614|2019-10-01T00:14:45Z|text
+615|metadata|element
+616|dc|element
+617|title|element
+618|統計を深く知る 高齢化は長寿化が進んだ結果? 長寿化と高齢化の関係についての誤解を解く|text
+619|creator|element
+620|別府 志海|text
+621|language|element
+622|jpn|text
+623|record|element
+624|header|element
+625|identifier|element
+626|oai:iss.ndl.go.jp:R000000004-I029966527-00|text
+627|datestamp|element
+628|2019-10-01T00:14:45Z|text
+629|metadata|element
+630|dc|element
+631|title|element
+632|『類雑集』翻刻(9)|text
+633|creator|element
+634|近世唱導文芸研究会|text
+635|language|element
+636|jpn|text
+637|record|element
+638|header|element
+639|identifier|element
+640|oai:iss.ndl.go.jp:R000000004-I029961202-00|text
+641|datestamp|element
+642|2019-10-01T00:14:45Z|text
+643|metadata|element
+644|dc|element
+645|title|element
+646|10月1日から消費税率引き上げ ご存じですか? 軽減税率制度|text
+647|language|element
+648|jpn|text
+649|record|element
+650|header|element
+651|identifier|element
+652|oai:iss.ndl.go.jp:R000000004-I029966101-00|text
+653|datestamp|element
+654|2019-10-01T00:14:45Z|text
+655|metadata|element
+656|dc|element
+657|title|element
+658|大阪大学数理・データ科学教育研究センター(MMDS)の活動|text
+659|creator|element
+660|内田 雅之|text
+661|language|element
+662|jpn|text
+663|record|element
+664|header|element
+665|identifier|element
+666|oai:iss.ndl.go.jp:R000000004-I029958665-00|text
+667|datestamp|element
+668|2019-10-01T00:14:45Z|text
+669|metadata|element
+670|dc|element
+671|title|element
+672|東京-高尾間に見る配線・施設の興味や歴史的遺構 中央線ウォッチング|text
+673|language|element
+674|jpn|text
+675|record|element
+676|header|element
+677|identifier|element
+678|oai:iss.ndl.go.jp:R000000004-I029966405-00|text
+679|datestamp|element
+680|2019-10-01T00:14:45Z|text
+681|metadata|element
+682|dc|element
+683|title|element
+684|2019 改革者の主張 参院選後の政党制と国民民主党 : 追い風も吹けば逆風も吹く|text
+685|creator|element
+686|加藤 秀治郎|text
+687|language|element
+688|jpn|text
+689|record|element
+690|header|element
+691|identifier|element
+692|oai:iss.ndl.go.jp:R000000004-I029967267-00|text
+693|datestamp|element
+694|2019-10-01T00:14:45Z|text
+695|metadata|element
+696|dc|element
+697|title|element
+698|成人特発性血小板減少性紫斑病治療の参照ガイド 2019改訂版|text
+699|creator|element
+700|柏木 浩和|text
+701|creator|element
+702|桑名 正隆|text
+703|creator|element
+704|羽藤 高明|text
+705|creator|element
+706|高蓋 寿朗|text
+707|creator|element
+708|藤村 欣吾|text
+709|creator|element
+710|倉田 義之|text
+711|creator|element
+712|村田 満|text
+713|creator|element
+714|冨山 佳昭|text
+715|subject|element
+716|ITP|text
+717|subject|element
+718|Thrombopoietin-receptor agonists|text
+719|subject|element
+720|Rituximab|text
+721|subject|element
+722|Splenectomy|text
+723|language|element
+724|jpn|text
+725|record|element
+726|header|element
+727|identifier|element
+728|oai:iss.ndl.go.jp:R000000004-I029965850-00|text
+729|datestamp|element
+730|2019-10-01T00:14:45Z|text
+731|metadata|element
+732|dc|element
+733|title|element
+734|中国特色インバウンド(4)ビジネスツアーの実態 : 気合いの京セラ詣で、グルメ三昧も|text
+735|creator|element
+736|山口 亮子|text
+737|language|element
+738|jpn|text
+739|record|element
+740|header|element
+741|identifier|element
+742|oai:iss.ndl.go.jp:R000000004-I029967037-00|text
+743|datestamp|element
+744|2019-10-01T00:14:45Z|text
+745|metadata|element
+746|dc|element
+747|title|element
+748|未知の活断層による地震動評価に新手法 経過措置設定で原発停止は回避も|text
+749|creator|element
+750|釜江 克宏|text
+751|language|element
+752|jpn|text
+753|record|element
+754|header|element
+755|identifier|element
+756|oai:iss.ndl.go.jp:R000000004-I029965765-00|text
+757|datestamp|element
+758|2019-10-01T00:14:45Z|text
+759|metadata|element
+760|dc|element
+761|title|element
+762|Differential gene expression and associated metabolite accumulation in fungus Ophiocordyceps xuefengensis cultivated under breathable and airtight conditions|text
+763|creator|element
+764|Jian Jin|text
+765|creator|element
+766|You Qin|text
+767|creator|element
+768|Can Zhong|text
+769|creator|element
+770|Rongrong Zhou|text
+771|creator|element
+772|Jing Xie|text
+773|creator|element
+774|Hao Liu|text
+775|creator|element
+776|Juan Xiao|text
+777|creator|element
+778|Ping Cai|text
+779|creator|element
+780|Shuihan Zhang|text
+781|creator|element
+782|Yuhui Qin|text
+783|subject|element
+784|Amino acids|text
+785|subject|element
+786|Cordyceps|text
+787|subject|element
+788|Stress|text
+789|subject|element
+790|Transcriptome|text
+791|language|element
+792|eng|text
+793|record|element
+794|header|element
+795|identifier|element
+796|oai:iss.ndl.go.jp:R000000004-I029967205-00|text
+797|datestamp|element
+798|2019-10-01T00:14:45Z|text
+799|metadata|element
+800|dc|element
+801|title|element
+802|新たな在留資格「特定技能」による農業分野での受入れについて|text
+803|creator|element
+804|三橋 孝一|text
+805|language|element
+806|jpn|text
+807|record|element
+808|header|element
+809|identifier|element
+810|oai:iss.ndl.go.jp:R000000004-I029965799-00|text
+811|datestamp|element
+812|2019-10-01T00:14:45Z|text
+813|metadata|element
+814|dc|element
+815|title|element
+816|環境省と経産省が自動車リサイクル合同会議、中国ショックへの対応強化を具体化中 リサイクル料金割引制度先送り、次世代車対応加速化|text
+817|language|element
+818|jpn|text
+819|record|element
+820|header|element
+821|identifier|element
+822|oai:iss.ndl.go.jp:R000000004-I029952763-00|text
+823|datestamp|element
+824|2019-10-01T00:14:45Z|text
+825|metadata|element
+826|dc|element
+827|title|element
+828|Adaptive Stepsize Rule for Consensus Optimization by Supervisory Control Architecture|text
+829|creator|element
+830|Yoshifumi KUSUNOKI|text
+831|creator|element
+832|Naoki HAYASHI|text
+833|creator|element
+834|Takeshi HATANAKA|text
+835|creator|element
+836|Keiji TATSUMI|text
+837|subject|element
+838|consensus optimization|text
+839|subject|element
+840|stepsize rule|text
+841|subject|element
+842|unconstrained optimization|text
+843|language|element
+844|eng|text
+845|record|element
+846|header|element
+847|identifier|element
+848|oai:iss.ndl.go.jp:R000000004-I029967126-00|text
+849|datestamp|element
+850|2019-10-01T00:14:45Z|text
+851|metadata|element
+852|dc|element
+853|title|element
+854|小児骨系統疾患・全身疾患の診かた|text
+855|creator|element
+856|芳賀 信彦|text
+857|subject|element
+858|骨系統疾患 (skeletal dysplasia)|text
+859|subject|element
+860|軟骨無形成症 (achondroplasia)|text
+861|subject|element
+862|骨形成不全症 (osteogenesis imperfecta)|text
+863|subject|element
+864|マルファン症候群 (Marfan syndrome)|text
+865|subject|element
+866|神経線維腫症1型 (neurofibromatosis type 1)|text
+867|language|element
+868|jpn|text
+869|record|element
+870|header|element
+871|identifier|element
+872|oai:iss.ndl.go.jp:R000000004-I029967247-00|text
+873|datestamp|element
+874|2019-10-01T00:14:45Z|text
+875|metadata|element
+876|dc|element
+877|title|element
+878|消費者問題 出前講座の作り方(第5回)実践編(1)若者を対象とした講座|text
+879|language|element
+880|jpn|text
+881|record|element
+882|header|element
+883|identifier|element
+884|oai:iss.ndl.go.jp:R000000004-I5001268-00|text
+885|datestamp|element
+886|2019-10-01T00:14:45Z|text
+887|metadata|element
+888|dc|element
+889|title|element
+890|東南ア経済協力の諸問題|text
+891|creator|element
+892|佐瀬 六郎|text
+893|subject|element
+894|対東南アジヤ|text
+895|record|element
+896|header|element
+897|identifier|element
+898|oai:iss.ndl.go.jp:R000000004-I5001574-00|text
+899|datestamp|element
+900|2019-10-01T00:14:45Z|text
+901|metadata|element
+902|dc|element
+903|title|element
+904|新しい利益の分配の方向|text
+905|creator|element
+906|増田 米治|text
+907|subject|element
+908|勞使関係|text
+909|record|element
+910|header|element
+911|identifier|element
+912|oai:iss.ndl.go.jp:R000000004-I028893081-00|text
+913|datestamp|element
+914|2019-10-01T00:14:46Z|text
+915|metadata|element
+916|dc|element
+917|title|element
+918|読者体験手記 わが子の窮地に、母は|text
+919|language|element
+920|jpn|text
+921|record|element
+922|header|element
+923|identifier|element
+924|oai:iss.ndl.go.jp:R000000004-I029021986-00|text
+925|datestamp|element
+926|2019-10-01T00:14:46Z|text
+927|metadata|element
+928|dc|element
+929|title|element
+930|表紙の私 日本を離れて|text
+931|creator|element
+932|今井 美樹|text
+933|creator|element
+934|Yuri Shinoto|text
+935|language|element
+936|jpn|text
+937|record|element
+938|header|element
+939|identifier|element
+940|oai:iss.ndl.go.jp:R000000004-I028962549-00|text
+941|datestamp|element
+942|2019-10-01T00:14:46Z|text
+943|metadata|element
+944|dc|element
+945|title|element
+946|読者体験手記 片付かないのは、誰のせい?|text
+947|language|element
+948|jpn|text
+949|record|element
+950|header|element
+951|identifier|element
+952|oai:iss.ndl.go.jp:R000000004-I028962665-00|text
+953|datestamp|element
+954|2019-10-01T00:14:46Z|text
+955|metadata|element
+956|dc|element
+957|title|element
+958|心とからだの養生学(54)アロマテラピーで心のゆらぎを整える|text
+959|creator|element
+960|大田 由紀江|text
+961|language|element
+962|jpn|text
+963|record|element
+964|header|element
+965|identifier|element
+966|oai:iss.ndl.go.jp:R000000004-I028985552-00|text
+967|datestamp|element
+968|2019-10-01T00:14:46Z|text
+969|metadata|element
+970|dc|element
+971|title|element
+972|たおやかに輪(わ)をえがいて(15)|text
+973|creator|element
+974|窪 美澄|text
+975|language|element
+976|jpn|text
+977|record|element
+978|header|element
+979|identifier|element
+980|oai:iss.ndl.go.jp:R000000004-I029170771-00|text
+981|datestamp|element
+982|2019-10-01T00:14:46Z|text
+983|metadata|element
+984|dc|element
+985|title|element
+986|天災から身を守る 日頃の備えと「いざその時」の対処 豪雨、台風、大地震から命を守るために 雨による災害 : これからの季節は要注意|text
+987|creator|element
+988|出世 ゆかり|text
+989|language|element
+990|jpn|text
+991|record|element
+992|header|element
+993|identifier|element
+994|oai:iss.ndl.go.jp:R000000004-I029075072-00|text
+995|datestamp|element
+996|2019-10-01T00:14:46Z|text
+997|metadata|element
+998|dc|element
+999|title|element
+1000|清水ミチコの三人寄れば無礼講(第16回)音楽と神様|text
+1001|creator|element
+1002|清水 ミチコ|text
+1003|creator|element
+1004|名越 康文|text
+1005|creator|element
+1006|鏡 リュウジ|text
+1007|language|element
+1008|jpn|text
+1009|record|element
+1010|header|element
+1011|identifier|element
+1012|oai:iss.ndl.go.jp:R000000004-I029345214-00|text
+1013|datestamp|element
+1014|2019-10-01T00:14:46Z|text
+1015|metadata|element
+1016|dc|element
+1017|title|element
+1018|バブル : ボスと彼女のものがたり(第15回)新会社、はじまる : 大手証券会社勤務・ヤエさんの場合(2)|text
+1019|creator|element
+1020|山口 ミルコ|text
+1021|language|element
+1022|jpn|text
+1023|record|element
+1024|header|element
+1025|identifier|element
+1026|oai:iss.ndl.go.jp:R000000004-I029282184-00|text
+1027|datestamp|element
+1028|2019-10-01T00:14:46Z|text
+1029|metadata|element
+1030|dc|element
+1031|title|element
+1032|心とからだの養生学(65)冬に急増する脳卒中・心筋梗塞を防ぐために 血管が若返る10のルール|text
+1033|creator|element
+1034|大田 由紀江|text
+1035|language|element
+1036|jpn|text
+1037|record|element
+1038|header|element
+1039|identifier|element
+1040|oai:iss.ndl.go.jp:R000000004-I029966891-00|text
+1041|datestamp|element
+1042|2019-10-01T00:14:46Z|text
+1043|metadata|element
+1044|dc|element
+1045|title|element
+1046|透析看護 外来血液透析患者の疲労感と種々の要因|text
+1047|creator|element
+1048|中原 宣子|text
+1049|creator|element
+1050|西口 和美|text
+1051|creator|element
+1052|泉 暢英|text
+1053|creator|element
+1054|鶴崎 清之|text
+1055|creator|element
+1056|楠本 裕美|text
+1057|creator|element
+1058|荒川 昌洋|text
+1059|creator|element
+1060|藤原 功一|text
+1061|subject|element
+1062|疲労感|text
+1063|subject|element
+1064|栄養|text
+1065|subject|element
+1066|日常活動量|text
+1067|subject|element
+1068|透析看護|text
+1069|subject|element
+1070|fatigue|text
+1071|subject|element
+1072|nutrition|text
+1073|subject|element
+1074|physical activity|text
+1075|subject|element
+1076|nursing care|text
+1077|language|element
+1078|jpn|text
+1079|record|element
+1080|header|element
+1081|identifier|element
+1082|oai:iss.ndl.go.jp:R000000004-I029960349-00|text
+1083|datestamp|element
+1084|2019-10-01T00:14:46Z|text
+1085|metadata|element
+1086|dc|element
+1087|title|element
+1088|加藤厚生労働大臣が就任会見|text
+1089|language|element
+1090|jpn|text
+1091|record|element
+1092|header|element
+1093|identifier|element
+1094|oai:iss.ndl.go.jp:R000000004-I029966991-00|text
+1095|datestamp|element
+1096|2019-10-01T00:14:46Z|text
+1097|metadata|element
+1098|dc|element
+1099|title|element
+1100|環境NPOにおけるシニア人材のキャリア構造と能力活用に関する事例研究|text
+1101|creator|element
+1102|竹内 淨|text
+1103|language|element
+1104|jpn|text
+1105|record|element
+1106|header|element
+1107|identifier|element
+1108|oai:iss.ndl.go.jp:R000000004-I029966065-00|text
+1109|datestamp|element
+1110|2019-10-01T00:14:46Z|text
+1111|metadata|element
+1112|dc|element
+1113|title|element
+1114|オルガネラを標的とした腎臓病治療薬 : ミトコンドリア標的薬|text
+1115|creator|element
+1116|鈴木 健弘|text
+1117|creator|element
+1118|阿部 高明|text
+1119|subject|element
+1120|mitochondrial disease|text
+1121|subject|element
+1122|mitofilin/Mic60|text
+1123|subject|element
+1124|ATP|text
+1125|subject|element
+1126|ATP synthase|text
+1127|subject|element
+1128|reactive oxygen species (ROS)|text
+1129|language|element
+1130|jpn|text
+1131|record|element
+1132|header|element
+1133|identifier|element
+1134|oai:iss.ndl.go.jp:R000000004-I029966291-00|text
+1135|datestamp|element
+1136|2019-10-01T00:14:46Z|text
+1137|metadata|element
+1138|dc|element
+1139|title|element
+1140|症例報告 歯科医師により下顎前突から先端巨大症が疑われた1例|text
+1141|creator|element
+1142|髙瀬 雅大|text
+1143|creator|element
+1144|髙橋 宏昌|text
+1145|creator|element
+1146|東山 正明|text
+1147|creator|element
+1148|加藤 浩一|text
+1149|creator|element
+1150|永吉 広和|text
+1151|subject|element
+1152|下顎前突|text
+1153|subject|element
+1154|先端巨大症|text
+1155|subject|element
+1156|mandibular protrusion|text
+1157|subject|element
+1158|acromegaly|text
+1159|language|element
+1160|jpn|text
+1161|record|element
+1162|header|element
+1163|identifier|element
+1164|oai:iss.ndl.go.jp:R000000004-I029966672-00|text
+1165|datestamp|element
+1166|2019-10-01T00:14:46Z|text
+1167|metadata|element
+1168|dc|element
+1169|title|element
+1170|2016 Epidemiological Survey of Dermatomycoses in Japan|text
+1171|creator|element
+1172|Harunari Shimoyama|text
+1173|creator|element
+1174|Yoshihiro Sei|text
+1175|creator|element
+1176|Epidemiological Investigation Committee for Human Mycoses in the Japanese Society for Medical Mycology|text
+1177|subject|element
+1178|candidiasis|text
+1179|subject|element
+1180|dermatomycosis|text
+1181|subject|element
+1182|dermatophytosis|text
+1183|subject|element
+1184|epidemiology|text
+1185|subject|element
+1186|Malassezia infection|text
+1187|language|element
+1188|eng|text
+1189|record|element
+1190|header|element
+1191|identifier|element
+1192|oai:iss.ndl.go.jp:R000000004-I029966306-00|text
+1193|datestamp|element
+1194|2019-10-01T00:14:46Z|text
+1195|metadata|element
+1196|dc|element
+1197|title|element
+1198|医々(いい)トーク(182)世界的近視人類化進む|text
+1199|creator|element
+1200|岸本 由次郎|text
+1201|language|element
+1202|jpn|text
+1203|record|element
+1204|header|element
+1205|identifier|element
+1206|oai:iss.ndl.go.jp:R000000004-I029966498-00|text
+1207|datestamp|element
+1208|2019-10-01T00:14:46Z|text
+1209|metadata|element
+1210|dc|element
+1211|title|element
+1212|五・四運動一〇〇周年 中国における青年の評価考|text
+1213|creator|element
+1214|桜井 政美|text
+1215|language|element
+1216|jpn|text
+1217|record|element
+1218|header|element
+1219|identifier|element
+1220|oai:iss.ndl.go.jp:R000000004-I029952642-00|text
+1221|datestamp|element
+1222|2019-10-01T00:14:46Z|text
+1223|metadata|element
+1224|dc|element
+1225|title|element
+1226|熱音響自励振動系に生じる非線形現象|text
+1227|creator|element
+1228|琵琶 哲志|text
+1229|subject|element
+1230|thermoacoustic oscillations, synchronization, amplitude death phenomenon|text
+1231|language|element
+1232|jpn|text
+1233|record|element
+1234|header|element
+1235|identifier|element
+1236|oai:iss.ndl.go.jp:R000000004-I029966502-00|text
+1237|datestamp|element
+1238|2019-10-01T00:14:46Z|text
+1239|metadata|element
+1240|dc|element
+1241|title|element
+1242|民事執行法等の改正の概要|text
+1243|creator|element
+1244|内野 宗揮|text
+1245|language|element
+1246|jpn|text
+1247|record|element
+1248|header|element
+1249|identifier|element
+1250|oai:iss.ndl.go.jp:R000000004-I029966537-00|text
+1251|datestamp|element
+1252|2019-10-01T00:14:46Z|text
+1253|metadata|element
+1254|dc|element
+1255|title|element
+1256|重要伝統的建造物群保存地区でのフィールドワーク : 愛媛県西予市卯之町と内子町を対象とした京都教育大学における授業実践|text
+1257|creator|element
+1258|香川 貴志|text
+1259|subject|element
+1260|重要伝統的建造物群保存地区|text
+1261|subject|element
+1262|フィールドワーク|text
+1263|subject|element
+1264|地形図読図|text
+1265|subject|element
+1266|西予市卯之町|text
+1267|subject|element
+1268|喜多郡内子町|text
+1269|subject|element
+1270|Important Preservation Districts for Groups of Historic Buildings|text
+1271|subject|element
+1272|fieldwork|text
+1273|subject|element
+1274|map reading|text
+1275|subject|element
+1276|Unomachi in Seiyo City|text
+1277|subject|element
+1278|Uchiko Town in Kita-Gun|text
+1279|language|element
+1280|jpn|text
+1281|record|element
+1282|header|element
+1283|identifier|element
+1284|oai:iss.ndl.go.jp:R000000004-I029966090-00|text
+1285|datestamp|element
+1286|2019-10-01T00:14:46Z|text
+1287|metadata|element
+1288|dc|element
+1289|title|element
+1290|ミトコンドリアDNAによる自然免疫の誘導と疾患 : cGAS-STING経路を中心に|text
+1291|creator|element
+1292|前川 洋|text
+1293|subject|element
+1294|mitochondrial DNA|text
+1295|subject|element
+1296|inflammation|text
+1297|subject|element
+1298|cGAS-STING pathway|text
+1299|subject|element
+1300|TLR9|text
+1301|subject|element
+1302|inflammasome|text
+1303|language|element
+1304|jpn|text
+1305|record|element
+1306|header|element
+1307|identifier|element
+1308|oai:iss.ndl.go.jp:R000000004-I029967149-00|text
+1309|datestamp|element
+1310|2019-10-01T00:14:46Z|text
+1311|metadata|element
+1312|dc|element
+1313|title|element
+1314|軽量耐火骨材としてのカルシウムヘキサアルミネート(CA₆)の利用|text
+1315|creator|element
+1316|小山 厚徳|text
+1317|language|element
+1318|jpn|text
+1319|record|element
+1320|header|element
+1321|identifier|element
+1322|oai:iss.ndl.go.jp:R000000004-I029966810-00|text
+1323|datestamp|element
+1324|2019-10-01T00:14:46Z|text
+1325|metadata|element
+1326|dc|element
+1327|title|element
+1328|第61回サンガくらぶ 講演(二〇一九年四月二二日 東京) 抜苦与楽でお悩み解決! 新シーズンの人間関係も軽やかに|text
+1329|creator|element
+1330|プラユキ・ナラテボー|text
+1331|language|element
+1332|jpn|text
+1333|record|element
+1334|header|element
+1335|identifier|element
+1336|oai:iss.ndl.go.jp:R000000004-I029966987-00|text
+1337|datestamp|element
+1338|2019-10-01T00:14:46Z|text
+1339|metadata|element
+1340|dc|element
+1341|title|element
+1342|シリカフューム : 不定形耐火物の鍵となる材料|text
+1343|creator|element
+1344|ビヨルン ミューラー|text
+1345|creator|element
+1346|三田寺 啓昭|text
+1347|language|element
+1348|jpn|text
+1349|record|element
+1350|header|element
+1351|identifier|element
+1352|oai:iss.ndl.go.jp:R000000004-I029966049-00|text
+1353|datestamp|element
+1354|2019-10-01T00:14:46Z|text
+1355|metadata|element
+1356|dc|element
+1357|title|element
+1358|インド経済序説|text
+1359|creator|element
+1360|谷口 洋志|text
+1361|language|element
+1362|jpn|text
+1363|record|element
+1364|header|element
+1365|identifier|element
+1366|oai:iss.ndl.go.jp:R000000004-I5000130-00|text
+1367|datestamp|element
+1368|2019-10-01T00:14:46Z|text
+1369|metadata|element
+1370|dc|element
+1371|title|element
+1372|対米関係調整の諸問題|text
+1373|creator|element
+1374|三上 正良|text
+1375|subject|element
+1376|対アメリカ合衆国|text
+1377|record|element
+1378|header|element
+1379|identifier|element
+1380|oai:iss.ndl.go.jp:R000000004-I024190401-00|text
+1381|datestamp|element
+1382|2019-10-01T00:14:46Z|text
+1383|metadata|element
+1384|dc|element
+1385|title|element
+1386|報告に盛り込まれた新味|text
+1387|language|element
+1388|jpn|text
+1389|record|element
+1390|header|element
+1391|identifier|element
+1392|oai:iss.ndl.go.jp:R000000004-I029099866-00|text
+1393|datestamp|element
+1394|2019-10-01T00:14:46Z|text
+1395|metadata|element
+1396|dc|element
+1397|title|element
+1398|ヘルシーキッチン 旨みと栄養を閉じ込める なめらか、つるるんレシピ|text
+1399|creator|element
+1400|大庭 英子|text
+1401|language|element
+1402|jpn|text
+1403|record|element
+1404|header|element
+1405|identifier|element
+1406|oai:iss.ndl.go.jp:R000000004-I028893117-00|text
+1407|datestamp|element
+1408|2019-10-01T00:14:46Z|text
+1409|metadata|element
+1410|dc|element
+1411|title|element
+1412|江原啓之の「愛」の人生作法(CASE6)過干渉の母|text
+1413|creator|element
+1414|江原 啓之|text
+1415|language|element
+1416|jpn|text
+1417|record|element
+1418|header|element
+1419|identifier|element
+1420|oai:iss.ndl.go.jp:R000000004-I029022072-00|text
+1421|datestamp|element
+1422|2019-10-01T00:14:46Z|text
+1423|metadata|element
+1424|dc|element
+1425|title|element
+1426|充実したひとり時間を過ごすために あなたはもっと「自分中心」になっていい|text
+1427|creator|element
+1428|石原 加受子|text
+1429|language|element
+1430|jpn|text
+1431|record|element
+1432|header|element
+1433|identifier|element
+1434|oai:iss.ndl.go.jp:R000000004-I029323123-00|text
+1435|datestamp|element
+1436|2019-10-01T00:14:46Z|text
+1437|metadata|element
+1438|dc|element
+1439|title|element
+1440|アイドル路線を脱した&quot;おっさん&quot;コーラスグループ、ブレイク進行中! 童謡から昭和歌謡まで。「ベイビー・ブー」が唄う|text
+1441|creator|element
+1442|吉田 明美|text
+1443|language|element
+1444|jpn|text
+1445|record|element
+1446|header|element
+1447|identifier|element
+1448|oai:iss.ndl.go.jp:R000000004-I029323134-00|text
+1449|datestamp|element
+1450|2019-10-01T00:14:46Z|text
+1451|metadata|element
+1452|dc|element
+1453|title|element
+1454|バブル : ボスと彼女のものがたり(第14回)転職前夜 : 大手証券会社勤務・ヤエさんの場合(1)|text
+1455|creator|element
+1456|山口 ミルコ|text
+1457|language|element
+1458|jpn|text
+1459|record|element
+1460|header|element
+1461|identifier|element
+1462|oai:iss.ndl.go.jp:R000000004-I029941329-00|text
+1463|datestamp|element
+1464|2019-10-01T00:14:46Z|text
+1465|metadata|element
+1466|dc|element
+1467|title|element
+1468|西日本豪雨で被災した倉敷市真備地域への移動図書館車の運行について|text
+1469|creator|element
+1470|原田 栄一|text
+1471|language|element
+1472|jpn|text
+1473|record|element
+1474|header|element
+1475|identifier|element
+1476|oai:iss.ndl.go.jp:R000000004-I029966372-00|text
+1477|datestamp|element
+1478|2019-10-01T00:14:46Z|text
+1479|metadata|element
+1480|dc|element
+1481|title|element
+1482|幼児の歌唱能力を規定する要因の解明 : 「AIRS歌唱能力テスト子ども用改訂版」と「家庭環境調査票」による調査|text
+1483|creator|element
+1484|小椋 佐奈衣|text
+1485|creator|element
+1486|安達 真由美|text
+1487|subject|element
+1488|家庭環境|text
+1489|subject|element
+1490|音楽的早期教育|text
+1491|subject|element
+1492|幼児|text
+1493|subject|element
+1494|歌唱能力|text
+1495|subject|element
+1496|ATBSS|text
+1497|subject|element
+1498|home environment|text
+1499|subject|element
+1500|early education of music|text
+1501|subject|element
+1502|toddler|text
+1503|subject|element
+1504|singing ability|text
+1505|subject|element
+1506|ATBSS|text
+1507|language|element
+1508|jpn|text
+1509|record|element
+1510|header|element
+1511|identifier|element
+1512|oai:iss.ndl.go.jp:R000000004-I029967360-00|text
+1513|datestamp|element
+1514|2019-10-01T00:14:46Z|text
+1515|metadata|element
+1516|dc|element
+1517|title|element
+1518|内田鋼一 : 陶藝の未来へと繋ぐ|text
+1519|creator|element
+1520|赤木 明登|text
+1521|language|element
+1522|jpn|text
+1523|record|element
+1524|header|element
+1525|identifier|element
+1526|oai:iss.ndl.go.jp:R000000004-I029966670-00|text
+1527|datestamp|element
+1528|2019-10-01T00:14:46Z|text
+1529|metadata|element
+1530|dc|element
+1531|title|element
+1532|超入門! 化学洗浄(10)|text
+1533|creator|element
+1534|伊藤 日出生|text
+1535|language|element
+1536|jpn|text
+1537|record|element
+1538|header|element
+1539|identifier|element
+1540|oai:iss.ndl.go.jp:R000000004-I029967066-00|text
+1541|datestamp|element
+1542|2019-10-01T00:14:46Z|text
+1543|metadata|element
+1544|dc|element
+1545|title|element
+1546|北朝鮮金正恩体制の教育学制改編について|text
+1547|creator|element
+1548|宮塚 寿美子|text
+1549|language|element
+1550|jpn|text
+1551|record|element
+1552|header|element
+1553|identifier|element
+1554|oai:iss.ndl.go.jp:R000000004-I029966430-00|text
+1555|datestamp|element
+1556|2019-10-01T00:14:46Z|text
+1557|metadata|element
+1558|dc|element
+1559|title|element
+1560|介護従事者の就業意識実態調査から ロボット導入は半数が賛成 : 深刻さ増す人材不足と高齢化|text
+1561|creator|element
+1562|村上 久美子|text
+1563|language|element
+1564|jpn|text
+1565|record|element
+1566|header|element
+1567|identifier|element
+1568|oai:iss.ndl.go.jp:R000000004-I029966809-00|text
+1569|datestamp|element
+1570|2019-10-01T00:14:46Z|text
+1571|metadata|element
+1572|dc|element
+1573|title|element
+1574|インタビュー 精神科医 水島広子氏 ありのままの自分を許し、楽になる。 : 人間関係の悩みを解決する「対人関係療法」からのアプローチ|text
+1575|creator|element
+1576|水島 広子|text
+1577|language|element
+1578|jpn|text
+1579|record|element
+1580|header|element
+1581|identifier|element
+1582|oai:iss.ndl.go.jp:R000000004-I029967088-00|text
+1583|datestamp|element
+1584|2019-10-01T00:14:46Z|text
+1585|metadata|element
+1586|dc|element
+1587|title|element
+1588|戸建て住宅の液状化地盤における深層混合処理工法の設計事例|text
+1589|creator|element
+1590|八木 正雄|text
+1591|language|element
+1592|jpn|text
+1593|record|element
+1594|header|element
+1595|identifier|element
+1596|oai:iss.ndl.go.jp:R000000004-I029967105-00|text
+1597|datestamp|element
+1598|2019-10-01T00:14:46Z|text
+1599|metadata|element
+1600|dc|element
+1601|title|element
+1602|砂浜の利活用の更なる促進に向けて : 地域の特性を活かした「ビーチリゾート」の創出を目指して|text
+1603|creator|element
+1604|菊池 秀之|text
+1605|language|element
+1606|jpn|text
+1607|record|element
+1608|header|element
+1609|identifier|element
+1610|oai:iss.ndl.go.jp:R000000004-I029966656-00|text
+1611|datestamp|element
+1612|2019-10-01T00:14:46Z|text
+1613|metadata|element
+1614|dc|element
+1615|title|element
+1616|「ポリファーマシー」について知ってほしい|text
+1617|creator|element
+1618|秋下 雅弘|text
+1619|language|element
+1620|jpn|text
+1621|record|element
+1622|header|element
+1623|identifier|element
+1624|oai:iss.ndl.go.jp:R000000004-I029966635-00|text
+1625|datestamp|element
+1626|2019-10-01T00:14:46Z|text
+1627|metadata|element
+1628|dc|element
+1629|title|element
+1630|食品製造業における労働力不足克服ビジョン(令和元年7月公表)|text
+1631|creator|element
+1632|東野 昭浩|text
+1633|language|element
+1634|jpn|text
+1635|record|element
+1636|header|element
+1637|identifier|element
+1638|oai:iss.ndl.go.jp:R000000004-I029966976-00|text
+1639|datestamp|element
+1640|2019-10-01T00:14:46Z|text
+1641|metadata|element
+1642|dc|element
+1643|title|element
+1644|指針改訂のポイント 深層混合処理工法の設計|text
+1645|creator|element
+1646|新井 洋|text
+1647|language|element
+1648|jpn|text
+1649|record|element
+1650|header|element
+1651|identifier|element
+1652|oai:iss.ndl.go.jp:R000000004-I029967316-00|text
+1653|datestamp|element
+1654|2019-10-01T00:14:46Z|text
+1655|metadata|element
+1656|dc|element
+1657|title|element
+1658|水墨清韻(14)式部輝忠「夏秋花鳥図」 : 豊かな色の水墨画|text
+1659|creator|element
+1660|島尾 新|text
+1661|language|element
+1662|jpn|text
+1663|record|element
+1664|header|element
+1665|identifier|element
+1666|oai:iss.ndl.go.jp:R000000004-I029966887-00|text
+1667|datestamp|element
+1668|2019-10-01T00:14:46Z|text
+1669|metadata|element
+1670|dc|element
+1671|title|element
+1672|Mass flowering of Himalayacalamus falconeri (Munro) Keng f. in eastern Nepal|text
+1673|creator|element
+1674|久本 洋子|text
+1675|creator|element
+1676|Prava PANDEY|text
+1677|subject|element
+1678|Dendrocolamus hookeri|text
+1679|subject|element
+1680|eastern Nepal|text
+1681|subject|element
+1682|Himalayacalamus falconeri|text
+1683|subject|element
+1684|Ilam district|text
+1685|subject|element
+1686|mass flowering|text
+1687|language|element
+1688|eng|text
+1689|record|element
+1690|header|element
+1691|identifier|element
+1692|oai:iss.ndl.go.jp:R000000004-I5001575-00|text
+1693|datestamp|element
+1694|2019-10-01T00:14:46Z|text
+1695|metadata|element
+1696|dc|element
+1697|title|element
+1698|労資関係の新方向|text
+1699|creator|element
+1700|増田 米治|text
+1701|subject|element
+1702|勞使関係|text
+1703|record|element
+1704|header|element
+1705|identifier|element
+1706|oai:iss.ndl.go.jp:R000000004-I024190444-00|text
+1707|datestamp|element
+1708|2019-10-01T00:14:46Z|text
+1709|metadata|element
+1710|dc|element
+1711|title|element
+1712|中日国交正常化40周年特別企画 中国-日本 友好の絆(10)洛陽|text
+1713|creator|element
+1714|張 春侠|text
+1715|language|element
+1716|jpn|text
+1717|record|element
+1718|header|element
+1719|identifier|element
+1720|oai:iss.ndl.go.jp:R000000004-I024104948-00|text
+1721|datestamp|element
+1722|2019-10-01T00:14:46Z|text
+1723|metadata|element
+1724|dc|element
+1725|title|element
+1726|長寿村のお年寄りに会う|text
+1727|language|element
+1728|jpn|text
+1729|record|element
+1730|header|element
+1731|identifier|element
+1732|oai:iss.ndl.go.jp:R000000004-I028962495-00|text
+1733|datestamp|element
+1734|2019-10-01T00:14:46Z|text
+1735|metadata|element
+1736|dc|element
+1737|title|element
+1738|できた時間は、自分のために 夫の世話をやめました|text
+1739|creator|element
+1740|山田 真理|text
+1741|language|element
+1742|jpn|text
+1743|record|element
+1744|header|element
+1745|identifier|element
+1746|oai:iss.ndl.go.jp:R000000004-I028920812-00|text
+1747|datestamp|element
+1748|2019-10-01T00:14:46Z|text
+1749|metadata|element
+1750|dc|element
+1751|title|element
+1752|キレのいいパフォーマンスの秘密 黄金の肉体は、24時間365日のコントロールから|text
+1753|creator|element
+1754|郷 ひろみ|text
+1755|language|element
+1756|jpn|text
+1757|record|element
+1758|header|element
+1759|identifier|element
+1760|oai:iss.ndl.go.jp:R000000004-I028921265-00|text
+1761|datestamp|element
+1762|2019-10-01T00:14:46Z|text
+1763|metadata|element
+1764|dc|element
+1765|title|element
+1766|子どもの反対 遺産相続 介護 墓 熟年再婚、トラブルを回避する7つの心得|text
+1767|creator|element
+1768|新川 てるえ|text
+1769|language|element
+1770|jpn|text
+1771|record|element
+1772|header|element
+1773|identifier|element
+1774|oai:iss.ndl.go.jp:R000000004-I029099681-00|text
+1775|datestamp|element
+1776|2019-10-01T00:14:46Z|text
+1777|metadata|element
+1778|dc|element
+1779|title|element
+1780|気持ちよさを優先すれば、ムダなことが見えてくる 40代からグレイヘアに! 今の私が一番好きです|text
+1781|creator|element
+1782|近藤 サト|text
+1783|language|element
+1784|jpn|text
+1785|record|element
+1786|header|element
+1787|identifier|element
+1788|oai:iss.ndl.go.jp:R000000004-I029074926-00|text
+1789|datestamp|element
+1790|2019-10-01T00:14:46Z|text
+1791|metadata|element
+1792|dc|element
+1793|title|element
+1794|読者体験手記 あぁわが家の金食い虫よ いっそ縁を切れたなら|text
+1795|language|element
+1796|jpn|text
+1797|record|element
+1798|header|element
+1799|identifier|element
+1800|oai:iss.ndl.go.jp:R000000004-I028985135-00|text
+1801|datestamp|element
+1802|2019-10-01T00:14:46Z|text
+1803|metadata|element
+1804|dc|element
+1805|title|element
+1806|表紙の私 ゆったりとした気持ちで|text
+1807|creator|element
+1808|安藤 サクラ|text
+1809|creator|element
+1810|Yuri Shinoto|text
+1811|language|element
+1812|jpn|text
+1813|record|element
+1814|header|element
+1815|identifier|element
+1816|oai:iss.ndl.go.jp:R000000004-I029345183-00|text
+1817|datestamp|element
+1818|2019-10-01T00:14:46Z|text
+1819|metadata|element
+1820|dc|element
+1821|title|element
+1822|対談 永田町の意識のズレを身をもって知って あの「育休議員」もイクメンに。妻を追いつめないために夫にできることは|text
+1823|creator|element
+1824|金子 恵美|text
+1825|creator|element
+1826|宮崎 謙介|text
+1827|language|element
+1828|jpn|text
+1829|record|element
+1830|header|element
+1831|identifier|element
+1832|oai:iss.ndl.go.jp:R000000004-I029323062-00|text
+1833|datestamp|element
+1834|2019-10-01T00:14:46Z|text
+1835|metadata|element
+1836|dc|element
+1837|title|element
+1838|採用条件は社長の&quot;お世話&quot;ができるか 耳を疑うようなセクハラ質問に私は負けない、屈しない!|text
+1839|creator|element
+1840|神名 美玲|text
+1841|language|element
+1842|jpn|text
+1843|record|element
+1844|header|element
+1845|identifier|element
+1846|oai:iss.ndl.go.jp:R000000004-I029170783-00|text
+1847|datestamp|element
+1848|2019-10-01T00:14:46Z|text
+1849|metadata|element
+1850|dc|element
+1851|title|element
+1852|私と戦争 : こうして暮らしが変わっていった(第2回)佐治晴夫 理学博士 機銃掃射の弾が耳元をかすめて|text
+1853|creator|element
+1854|佐治 晴夫|text
+1855|creator|element
+1856|堤 江実|text
+1857|language|element
+1858|jpn|text
+1859|record|element
+1860|header|element
+1861|identifier|element
+1862|oai:iss.ndl.go.jp:R000000004-I029909381-00|text
+1863|datestamp|element
+1864|2019-10-01T00:14:46Z|text
+1865|metadata|element
+1866|dc|element
+1867|title|element
+1868|Protective effect of oil extracted from Neophocaena asiaeorientalis against hydrogen peroxide-induced oxidative stress in HepG2 cells|text
+1869|creator|element
+1870|Hye Ryeong Kim|text
+1871|creator|element
+1872|Ji Eun Kim|text
+1873|creator|element
+1874|Woo Bin Yun|text
+1875|creator|element
+1876|Mi Rim Lee|text
+1877|creator|element
+1878|Jun Young Choi|text
+1879|creator|element
+1880|Jin Ju Park|text
+1881|creator|element
+1882|Bo Ram Song|text
+1883|creator|element
+1884|Hyun Keun Song|text
+1885|creator|element
+1886|Dae Youn Hwang|text
+1887|subject|element
+1888|Antioxidant|text
+1889|subject|element
+1890|Dolphin|text
+1891|subject|element
+1892|Fish oil|text
+1893|subject|element
+1894|Omega-3 fatty acid|text
+1895|subject|element
+1896|Hepatotoxicity|text
+1897|subject|element
+1898|Cell viability|text
+1899|subject|element
+1900|Cell cycle|text
+1901|subject|element
+1902|Apoptotic protein|text
+1903|language|element
+1904|eng|text
+1905|record|element
+1906|header|element
+1907|identifier|element
+1908|oai:iss.ndl.go.jp:R000000004-I029967130-00|text
+1909|datestamp|element
+1910|2019-10-01T00:14:46Z|text
+1911|metadata|element
+1912|dc|element
+1913|title|element
+1914|経営者に聞く 株式会社オレンジゲート 代表取締役 岩切勝宏氏|text
+1915|creator|element
+1916|岩切 勝宏|text
+1917|language|element
+1918|jpn|text
+1919|record|element
+1920|header|element
+1921|identifier|element
+1922|oai:iss.ndl.go.jp:R000000004-I029344991-00|text
+1923|datestamp|element
+1924|2019-10-01T00:14:46Z|text
+1925|metadata|element
+1926|dc|element
+1927|title|element
+1928|読者体験手記 つきあいの悪い私です|text
+1929|language|element
+1930|jpn|text
+1931|record|element
+1932|header|element
+1933|identifier|element
+1934|oai:iss.ndl.go.jp:R000000004-I029967352-00|text
+1935|datestamp|element
+1936|2019-10-01T00:14:46Z|text
+1937|metadata|element
+1938|dc|element
+1939|title|element
+1940|ふるさと飯野町を子どもたちの宝物に|text
+1941|creator|element
+1942|斎藤 憲子|text
+1943|language|element
+1944|jpn|text
+1945|record|element
+1946|header|element
+1947|identifier|element
+1948|oai:iss.ndl.go.jp:R000000004-I029967078-00|text
+1949|datestamp|element
+1950|2019-10-01T00:14:46Z|text
+1951|metadata|element
+1952|dc|element
+1953|title|element
+1954|小児下肢疾患の診かた(股関節を除く)|text
+1955|creator|element
+1956|藤井 宏真|text
+1957|creator|element
+1958|米田 梓|text
+1959|creator|element
+1960|黒川 紘章|text
+1961|creator|element
+1962|田中 康仁|text
+1963|subject|element
+1964|先天性足部疾患|text
+1965|subject|element
+1966|内反膝|text
+1967|subject|element
+1968|ブラウント病|text
+1969|subject|element
+1970|外脛骨障害|text
+1971|subject|element
+1972|足根骨癒合症|text
+1973|language|element
+1974|jpn|text
+1975|record|element
+1976|header|element
+1977|identifier|element
+1978|oai:iss.ndl.go.jp:R000000004-I029967040-00|text
+1979|datestamp|element
+1980|2019-10-01T00:14:46Z|text
+1981|metadata|element
+1982|dc|element
+1983|title|element
+1984|特許対象としての適格性(Patent Eligibility)判定に関する2019年USPTO改訂ガイダンス|text
+1985|creator|element
+1986|前川 有希子|text
+1987|language|element
+1988|jpn|text
+1989|record|element
+1990|header|element
+1991|identifier|element
+1992|oai:iss.ndl.go.jp:R000000004-I029966144-00|text
+1993|datestamp|element
+1994|2019-10-01T00:14:46Z|text
+1995|metadata|element
+1996|dc|element
+1997|title|element
+1998|研究でひと手間を惜しむな!|text
+1999|creator|element
+2000|高木 節雄|text
+2001|subject|element
+2002|Advice|text
+2003|subject|element
+2004|Conner-cutting|text
+2005|subject|element
+2006|Research|text
+2007|subject|element
+2008|Carefulness|text
+2009|subject|element
+2010|Sensibility|text
+2011|language|element
+2012|jpn|text
+2013|record|element
+2014|header|element
+2015|identifier|element
+2016|oai:iss.ndl.go.jp:R000000004-I029966208-00|text
+2017|datestamp|element
+2018|2019-10-01T00:14:46Z|text
+2019|metadata|element
+2020|dc|element
+2021|title|element
+2022|企業買収における取締役会の行動の規制 : 株式買取価格決定申立事件にみえる米国企業の売却プロセスと比較して|text
+2023|creator|element
+2024|松井 和也|text
+2025|language|element
+2026|jpn|text
+2027|record|element
+2028|header|element
+2029|identifier|element
+2030|oai:iss.ndl.go.jp:R000000004-I029966318-00|text
+2031|datestamp|element
+2032|2019-10-01T00:14:46Z|text
+2033|metadata|element
+2034|dc|element
+2035|title|element
+2036|鳩から鷲へのわが軌跡|text
+2037|creator|element
+2038|柏木 康武|text
+2039|language|element
+2040|jpn|text
+2041|record|element
+2042|header|element
+2043|identifier|element
+2044|oai:iss.ndl.go.jp:R000000004-I029966431-00|text
+2045|datestamp|element
+2046|2019-10-01T00:14:46Z|text
+2047|metadata|element
+2048|dc|element
+2049|title|element
+2050|共生のための思想と実践 : 大原總一郎の場合(1)|text
+2051|creator|element
+2052|兼田 麗子|text
+2053|language|element
+2054|jpn|text
+2055|record|element
+2056|header|element
+2057|identifier|element
+2058|oai:iss.ndl.go.jp:R000000004-I029960650-00|text
+2059|datestamp|element
+2060|2019-10-01T00:14:46Z|text
+2061|metadata|element
+2062|dc|element
+2063|title|element
+2064|独禁法事例速報 価格決定権のない者による情報交換と事業者による「意思の連絡」[東京地裁令和元.5.9判決]|text
+2065|creator|element
+2066|原 悦子|text
+2067|language|element
+2068|jpn|text
+2069|record|element
+2070|header|element
+2071|identifier|element
+2072|oai:iss.ndl.go.jp:R000000004-I029966214-00|text
+2073|datestamp|element
+2074|2019-10-01T00:14:46Z|text
+2075|metadata|element
+2076|dc|element
+2077|title|element
+2078|伝統技法と最新技術を駆使した職人技が光る! スタジオ・ノーヴァ|text
+2079|creator|element
+2080|片岡 力|text
+2081|language|element
+2082|jpn|text
+2083|record|element
+2084|header|element
+2085|identifier|element
+2086|oai:iss.ndl.go.jp:R000000004-I029965900-00|text
+2087|datestamp|element
+2088|2019-10-01T00:14:46Z|text
+2089|metadata|element
+2090|dc|element
+2091|title|element
+2092|多光子励起レーザー走査型顕微鏡を用いた脳深部観察時に生じる球面収差の自動補正|text
+2093|creator|element
+2094|上 喜裕|text
+2095|creator|element
+2096|毛内 拡|text
+2097|creator|element
+2098|宮脇 敦史|text
+2099|language|element
+2100|jpn|text
+2101|record|element
+2102|header|element
+2103|identifier|element
+2104|oai:iss.ndl.go.jp:R000000004-I029967338-00|text
+2105|datestamp|element
+2106|2019-10-01T00:14:46Z|text
+2107|metadata|element
+2108|dc|element
+2109|title|element
+2110|サンゴの緑色蛍光は共生藻類の誘引にはたらく|text
+2111|creator|element
+2112|相原 悠介|text
+2113|language|element
+2114|jpn|text
+2115|record|element
+2116|header|element
+2117|identifier|element
+2118|oai:iss.ndl.go.jp:R000000004-I029966899-00|text
+2119|datestamp|element
+2120|2019-10-01T00:14:46Z|text
+2121|metadata|element
+2122|dc|element
+2123|title|element
+2124|タケ類に関する試験研究報告等リスト(2016-2018年)|text
+2125|language|element
+2126|jpn|text
+2127|record|element
+2128|header|element
+2129|identifier|element
+2130|oai:iss.ndl.go.jp:R000000004-I029967180-00|text
+2131|datestamp|element
+2132|2019-10-01T00:14:46Z|text
+2133|metadata|element
+2134|dc|element
+2135|title|element
+2136|The 21st Century Interview 株式会社グリーンハウス 代表取締役社長 田沼千秋 慶應義塾の学食から世界の健康フードサービス企業へ 食を通して人々の健康に貢献する|text
+2137|creator|element
+2138|田沼 千秋|text
+2139|language|element
+2140|jpn|text
+2141|record|element
+2142|header|element
+2143|identifier|element
+2144|oai:iss.ndl.go.jp:R000000004-I029967080-00|text
+2145|datestamp|element
+2146|2019-10-01T00:14:46Z|text
+2147|metadata|element
+2148|dc|element
+2149|title|element
+2150|海外情報 中国の知財関連判決紹介(56)[最高人民法院2018.6.26判決,上海知識産権法院2018.12.20判決,浙江省高級法院2018.12.29判決]|text
+2151|creator|element
+2152|北京魏啓学法律事務所|text
+2153|language|element
+2154|jpn|text
+2155|record|element
+2156|header|element
+2157|identifier|element
+2158|oai:iss.ndl.go.jp:R000000004-I029964259-00|text
+2159|datestamp|element
+2160|2019-10-01T00:14:46Z|text
+2161|metadata|element
+2162|dc|element
+2163|title|element
+2164|お騒がせな特許事件簿(第1話)人工ラジウム特許事件(前)|text
+2165|creator|element
+2166|櫻井 孝|text
+2167|language|element
+2168|jpn|text
+2169|record|element
+2170|header|element
+2171|identifier|element
+2172|oai:iss.ndl.go.jp:R000000004-I029966212-00|text
+2173|datestamp|element
+2174|2019-10-01T00:14:46Z|text
+2175|metadata|element
+2176|dc|element
+2177|title|element
+2178|ワクワク、ワンダーランドの人形劇 「動く人形」が育む豊かな感性と想像力。|text
+2179|creator|element
+2180|池田 憲章|text
+2181|language|element
+2182|jpn|text
+2183|record|element
+2184|header|element
+2185|identifier|element
+2186|oai:iss.ndl.go.jp:R000000004-I029966622-00|text
+2187|datestamp|element
+2188|2019-10-01T00:14:46Z|text
+2189|metadata|element
+2190|dc|element
+2191|title|element
+2192|食と健康カテゴリー市場創造は健康ハブステ委員会で実践段階に : 「健康食品の販売手法・情報提供等に関する自主基準」策定へ|text
+2193|language|element
+2194|jpn|text
+2195|record|element
+2196|header|element
+2197|identifier|element
+2198|oai:iss.ndl.go.jp:R000000004-I029967049-00|text
+2199|datestamp|element
+2200|2019-10-01T00:14:46Z|text
+2201|metadata|element
+2202|dc|element
+2203|title|element
+2204|地方都市における低年齢児保育の利用状況 : 東北地方C市(1990~2000年代前半)の事例から|text
+2205|creator|element
+2206|岩﨑 香織|text
+2207|language|element
+2208|jpn|text
+2209|record|element
+2210|header|element
+2211|identifier|element
+2212|oai:iss.ndl.go.jp:R000000004-I5001306-00|text
+2213|datestamp|element
+2214|2019-10-01T00:14:46Z|text
+2215|metadata|element
+2216|dc|element
+2217|title|element
+2218|私のマーケッティング(座談会)|text
+2219|creator|element
+2220|清水 晶 他|text
+2221|subject|element
+2222|市場調査|text
+2223|record|element
+2224|header|element
+2225|identifier|element
+2226|oai:iss.ndl.go.jp:R000000004-I5001256-00|text
+2227|datestamp|element
+2228|2019-10-01T00:14:46Z|text
+2229|metadata|element
+2230|dc|element
+2231|title|element
+2232|首都圏整備の意義と構想|text
+2233|creator|element
+2234|黒田 俊雄|text
+2235|subject|element
+2236|工業立地|text
+2237|record|element
+2238|header|element
+2239|identifier|element
+2240|oai:iss.ndl.go.jp:R000000004-I028893128-00|text
+2241|datestamp|element
+2242|2019-10-01T00:14:46Z|text
+2243|metadata|element
+2244|dc|element
+2245|title|element
+2246|三度目の恋(6)|text
+2247|creator|element
+2248|川上 弘美|text
+2249|language|element
+2250|jpn|text
+2251|record|element
+2252|header|element
+2253|identifier|element
+2254|oai:iss.ndl.go.jp:R000000004-I029046761-00|text
+2255|datestamp|element
+2256|2019-10-01T00:14:46Z|text
+2257|metadata|element
+2258|dc|element
+2259|title|element
+2260|心とからだの養生学(57)認知症を遠ざける&quot;脳番地トレーニング&quot;|text
+2261|creator|element
+2262|佐藤 ゆかり|text
+2263|language|element
+2264|jpn|text
+2265|record|element
+2266|header|element
+2267|identifier|element
+2268|oai:iss.ndl.go.jp:R000000004-I029322568-00|text
+2269|datestamp|element
+2270|2019-10-01T00:14:46Z|text
+2271|metadata|element
+2272|dc|element
+2273|title|element
+2274|もう一度、&quot;自分ファースト&quot;の時代へ 傾けたエネルギーのぶんだけ充実が味わえる|text
+2275|creator|element
+2276|林 真理子|text
+2277|language|element
+2278|jpn|text
+2279|record|element
+2280|header|element
+2281|identifier|element
+2282|oai:iss.ndl.go.jp:R000000004-I029966383-00|text
+2283|datestamp|element
+2284|2019-10-01T00:14:46Z|text
+2285|metadata|element
+2286|dc|element
+2287|title|element
+2288|日本のまちづくりの現状とグローカル教育 : ポスト・ポストモダニズム時代に求められる人材とは|text
+2289|creator|element
+2290|池ノ上 真一|text
+2291|subject|element
+2292|縮小社会 (shrinking society)|text
+2293|subject|element
+2294|ポスト・ポストモダニズム (the post-postmodern)|text
+2295|subject|element
+2296|グローカル (glocal)|text
+2297|subject|element
+2298|まち育て (community/area management)|text
+2299|language|element
+2300|jpn|text
+2301|record|element
+2302|header|element
+2303|identifier|element
+2304|oai:iss.ndl.go.jp:R000000004-I029966361-00|text
+2305|datestamp|element
+2306|2019-10-01T00:14:46Z|text
+2307|metadata|element
+2308|dc|element
+2309|title|element
+2310|イギリス鉄道史研究動向|text
+2311|creator|element
+2312|冨田 新|text
+2313|language|element
+2314|jpn|text
+2315|record|element
+2316|header|element
+2317|identifier|element
+2318|oai:iss.ndl.go.jp:R000000004-I029967320-00|text
+2319|datestamp|element
+2320|2019-10-01T00:14:46Z|text
+2321|metadata|element
+2322|dc|element
+2323|title|element
+2324|名陶再考 : やきものと人と(5)井村彦次郎商会と「色絵花鳥文花瓶 対」|text
+2325|creator|element
+2326|荒川 正明|text
+2327|language|element
+2328|jpn|text
+2329|record|element
+2330|header|element
+2331|identifier|element
+2332|oai:iss.ndl.go.jp:R000000004-I029967041-00|text
+2333|datestamp|element
+2334|2019-10-01T00:14:46Z|text
+2335|metadata|element
+2336|dc|element
+2337|title|element
+2338|特集 覚醒するLPガス : 生活基幹エネルギーへの挑戦|text
+2339|language|element
+2340|jpn|text
+2341|record|element
+2342|header|element
+2343|identifier|element
+2344|oai:iss.ndl.go.jp:R000000004-I029966583-00|text
+2345|datestamp|element
+2346|2019-10-01T00:14:46Z|text
+2347|metadata|element
+2348|dc|element
+2349|title|element
+2350|機械学習を用いた歪みエフェクタのブラックボックスモデリング|text
+2351|creator|element
+2352|松永 悠斗|text
+2353|creator|element
+2354|青木 直史|text
+2355|creator|element
+2356|土橋 宜典|text
+2357|creator|element
+2358|小嶋 徹也|text
+2359|subject|element
+2360|デジタルモデリング|text
+2361|subject|element
+2362|歪みエフェクタ|text
+2363|subject|element
+2364|機械学習|text
+2365|subject|element
+2366|Digital Modeling|text
+2367|subject|element
+2368|Distortion Stomp Box|text
+2369|subject|element
+2370|Machine Learning|text
+2371|language|element
+2372|jpn|text
+2373|record|element
+2374|header|element
+2375|identifier|element
+2376|oai:iss.ndl.go.jp:R000000004-I029967287-00|text
+2377|datestamp|element
+2378|2019-10-01T00:14:46Z|text
+2379|metadata|element
+2380|dc|element
+2381|title|element
+2382|女人京都(第2回)神に仕えた皇族女子「斎王」たちのサロン|text
+2383|creator|element
+2384|酒井 順子|text
+2385|language|element
+2386|jpn|text
+2387|record|element
+2388|header|element
+2389|identifier|element
+2390|oai:iss.ndl.go.jp:R000000004-I029967179-00|text
+2391|datestamp|element
+2392|2019-10-01T00:14:46Z|text
+2393|metadata|element
+2394|dc|element
+2395|title|element
+2396|航空今昔物語 : エアカーゴ : 故(ふる)きを温(たず)ねて新しきを知ろう(第21回)貨物教育に心魂傾けた後半生 : 世界の若者に航空輸送の面白さを語り続けた|text
+2397|creator|element
+2398|木下 達雄|text
+2399|language|element
+2400|jpn|text
+2401|record|element
+2402|header|element
+2403|identifier|element
+2404|oai:iss.ndl.go.jp:R000000004-I029966552-00|text
+2405|datestamp|element
+2406|2019-10-01T00:14:46Z|text
+2407|metadata|element
+2408|dc|element
+2409|title|element
+2410|センターだより JRお助け隊コンシェルジュと銀山の地下アイドルで地域活性化 : 公益社団法人朝来市シルバー人材センター(兵庫県)|text
+2411|creator|element
+2412|下口 光子|text
+2413|language|element
+2414|jpn|text
+2415|record|element
+2416|header|element
+2417|identifier|element
+2418|oai:iss.ndl.go.jp:R000000004-I029966391-00|text
+2419|datestamp|element
+2420|2019-10-01T00:14:46Z|text
+2421|metadata|element
+2422|dc|element
+2423|title|element
+2424|白血病治療の革命をもたらした三十年前の日本の基礎研究|text
+2425|creator|element
+2426|豊嶋 崇徳|text
+2427|language|element
+2428|jpn|text
+2429|record|element
+2430|header|element
+2431|identifier|element
+2432|oai:iss.ndl.go.jp:R000000004-I029966499-00|text
+2433|datestamp|element
+2434|2019-10-01T00:14:46Z|text
+2435|metadata|element
+2436|dc|element
+2437|title|element
+2438|児童虐待から子どもを救う|text
+2439|language|element
+2440|jpn|text
+2441|record|element
+2442|header|element
+2443|identifier|element
+2444|oai:iss.ndl.go.jp:R000000004-I029964424-00|text
+2445|datestamp|element
+2446|2019-10-01T00:14:46Z|text
+2447|metadata|element
+2448|dc|element
+2449|title|element
+2450|ASEANと中国との自由貿易地域(ACFTA)構築作業とその新展開|text
+2451|creator|element
+2452|助川 成也|text
+2453|language|element
+2454|jpn|text
+2455|record|element
+2456|header|element
+2457|identifier|element
+2458|oai:iss.ndl.go.jp:R000000004-I029966168-00|text
+2459|datestamp|element
+2460|2019-10-01T00:14:46Z|text
+2461|metadata|element
+2462|dc|element
+2463|title|element
+2464|不真正不作為犯における作為義務の根拠論 : 諸要素の位置づけの再検討|text
+2465|creator|element
+2466|奥田 菜津|text
+2467|language|element
+2468|jpn|text
+2469|record|element
+2470|header|element
+2471|identifier|element
+2472|oai:iss.ndl.go.jp:R000000004-I029967327-00|text
+2473|datestamp|element
+2474|2019-10-01T00:14:46Z|text
+2475|metadata|element
+2476|dc|element
+2477|title|element
+2478|地域の取り組みに関する意見交換会 : 愛媛県西条市|text
+2479|creator|element
+2480|蛯原 雅之|text
+2481|language|element
+2482|jpn|text
+2483|record|element
+2484|header|element
+2485|identifier|element
+2486|oai:iss.ndl.go.jp:R000000004-I029965797-00|text
+2487|datestamp|element
+2488|2019-10-01T00:14:46Z|text
+2489|metadata|element
+2490|dc|element
+2491|title|element
+2492|新たなCAS検討分科会パブコメ、パナソニックや主婦連は意見提出せず|text
+2493|subject|element
+2494|放送政策|text
+2495|language|element
+2496|jpn|text
+2497|record|element
+2498|header|element
+2499|identifier|element
+2500|oai:iss.ndl.go.jp:R000000004-I029965983-00|text
+2501|datestamp|element
+2502|2019-10-01T00:14:46Z|text
+2503|metadata|element
+2504|dc|element
+2505|title|element
+2506|セルフパワード型空気式歩行支援シューズの開発|text
+2507|creator|element
+2508|高岩 昌弘|text
+2509|creator|element
+2510|松井 保子|text
+2511|subject|element
+2512|歩行支援|text
+2513|subject|element
+2514|シューズ|text
+2515|subject|element
+2516|空気圧システム|text
+2517|subject|element
+2518|セルフパワー|text
+2519|subject|element
+2520|Walking support|text
+2521|subject|element
+2522|Shoes|text
+2523|subject|element
+2524|Pneumatic drive system|text
+2525|subject|element
+2526|self power|text
+2527|language|element
+2528|jpn|text
+2529|record|element
+2530|header|element
+2531|identifier|element
+2532|oai:iss.ndl.go.jp:R000000004-I029966677-00|text
+2533|datestamp|element
+2534|2019-10-01T00:14:46Z|text
+2535|metadata|element
+2536|dc|element
+2537|title|element
+2538|PATを用いた新しい組織移植 : NPWTを併用した一期的PAT・植皮術|text
+2539|creator|element
+2540|安倍 吉郎|text
+2541|creator|element
+2542|橋本 一郎|text
+2543|subject|element
+2544|PAT|text
+2545|subject|element
+2546|植皮|text
+2547|subject|element
+2548|一期的再建|text
+2549|subject|element
+2550|NPWT|text
+2551|language|element
+2552|jpn|text
+2553|record|element
+2554|header|element
+2555|identifier|element
+2556|oai:iss.ndl.go.jp:R000000004-I029966379-00|text
+2557|datestamp|element
+2558|2019-10-01T00:14:46Z|text
+2559|metadata|element
+2560|dc|element
+2561|title|element
+2562|会議報告 ICMPC 15(ESCOM10)参加報告|text
+2563|language|element
+2564|jpn|text
+2565|record|element
+2566|header|element
+2567|identifier|element
+2568|oai:iss.ndl.go.jp:R000000004-I5000083-00|text
+2569|datestamp|element
+2570|2019-10-01T00:14:46Z|text
+2571|metadata|element
+2572|dc|element
+2573|title|element
+2574|中国の経済学と経済学者|text
+2575|creator|element
+2576|小椋 広勝|text
+2577|subject|element
+2578|中国|text
+2579|record|element
+2580|header|element
+2581|identifier|element
+2582|oai:iss.ndl.go.jp:R000000004-I029132889-00|text
+2583|datestamp|element
+2584|2019-10-01T00:14:46Z|text
+2585|metadata|element
+2586|dc|element
+2587|title|element
+2588|Dear Woman(5)ファッション×ビュー くつろぎのロング&amp;リーン|text
+2589|creator|element
+2590|中馬 あかね|text
+2591|language|element
+2592|jpn|text
+2593|record|element
+2594|header|element
+2595|identifier|element
+2596|oai:iss.ndl.go.jp:R000000004-I029132952-00|text
+2597|datestamp|element
+2598|2019-10-01T00:14:46Z|text
+2599|metadata|element
+2600|dc|element
+2601|title|element
+2602|三度目の恋(15)|text
+2603|creator|element
+2604|川上 弘美|text
+2605|language|element
+2606|jpn|text
+2607|record|element
+2608|header|element
+2609|identifier|element
+2610|oai:iss.ndl.go.jp:R000000004-I029966183-00|text
+2611|datestamp|element
+2612|2019-10-01T00:14:46Z|text
+2613|metadata|element
+2614|dc|element
+2615|title|element
+2616|講演 改訂版CGコードに対応したCG報告書の分析|text
+2617|creator|element
+2618|太子堂 厚子|text
+2619|language|element
+2620|jpn|text
+2621|record|element
+2622|header|element
+2623|identifier|element
+2624|oai:iss.ndl.go.jp:R000000004-I029075140-00|text
+2625|datestamp|element
+2626|2019-10-01T00:14:46Z|text
+2627|metadata|element
+2628|dc|element
+2629|title|element
+2630|2020年までの恋人たち(vol.26)|text
+2631|creator|element
+2632|島本 理生|text
+2633|language|element
+2634|jpn|text
+2635|record|element
+2636|header|element
+2637|identifier|element
+2638|oai:iss.ndl.go.jp:R000000004-I029966507-00|text
+2639|datestamp|element
+2640|2019-10-01T00:14:46Z|text
+2641|metadata|element
+2642|dc|element
+2643|title|element
+2644|債権執行事件の終了・差押禁止債権をめぐる規律の見直し|text
+2645|creator|element
+2646|谷藤 一弥|text
+2647|language|element
+2648|jpn|text
+2649|record|element
+2650|header|element
+2651|identifier|element
+2652|oai:iss.ndl.go.jp:R000000004-I029966691-00|text
+2653|datestamp|element
+2654|2019-10-01T00:14:46Z|text
+2655|metadata|element
+2656|dc|element
+2657|title|element
+2658|ストレスと腸内細菌叢 : 乳酸菌を用いた新たな健康戦略|text
+2659|creator|element
+2660|六反 一仁|text
+2661|creator|element
+2662|桑野 由紀|text
+2663|creator|element
+2664|西田 憲生|text
+2665|subject|element
+2666|脳腸軸|text
+2667|subject|element
+2668|腸内細菌叢|text
+2669|subject|element
+2670|ストレス|text
+2671|subject|element
+2672|乳酸菌|text
+2673|subject|element
+2674|Brain-gut axis|text
+2675|subject|element
+2676|Gut microbiota|text
+2677|subject|element
+2678|Stress|text
+2679|subject|element
+2680|Lactic acid bacteria|text
+2681|language|element
+2682|jpn|text
+2683|record|element
+2684|header|element
+2685|identifier|element
+2686|oai:iss.ndl.go.jp:R000000004-I029966374-00|text
+2687|datestamp|element
+2688|2019-10-01T00:14:46Z|text
+2689|metadata|element
+2690|dc|element
+2691|title|element
+2692|はじめての熊本ゆかりの詩人(3)丸山董への手紙 : 蔵原伸二郎・中村汀女|text
+2693|creator|element
+2694|岩本 晃代|text
+2695|language|element
+2696|jpn|text
+2697|record|element
+2698|header|element
+2699|identifier|element
+2700|oai:iss.ndl.go.jp:R000000004-I029967332-00|text
+2701|datestamp|element
+2702|2019-10-01T00:14:46Z|text
+2703|metadata|element
+2704|dc|element
+2705|title|element
+2706|名水を訪ねて(126)島原半島の名水(再訪)|text
+2707|creator|element
+2708|利部 慎|text
+2709|language|element
+2710|jpn|text
+2711|record|element
+2712|header|element
+2713|identifier|element
+2714|oai:iss.ndl.go.jp:R000000004-I029960897-00|text
+2715|datestamp|element
+2716|2019-10-01T00:14:46Z|text
+2717|metadata|element
+2718|dc|element
+2719|title|element
+2720|最高裁時の判例 刑事 1.心神喪失等の状態で重大な他害行為を行った者の医療及び観察等に関する法律の再抗告事件において同法70条1項所定の理由以外の理由により原決定を取り消すことの可否 2.心神喪失等の状態で重大な他害行為を行った者の医療及び観察等に関する法律による入院決定を受けた対象者からの同法による医療の終了の申立て及び指定入院医療機関の管理者からの退院の許可の申立てを棄却した各原々決定及びこれを維持した各原決定に審理不尽の違法があるとされた事例[平成29.12.25決定]|text
+2721|creator|element
+2722|三上 潤|text
+2723|language|element
+2724|jpn|text
+2725|record|element
+2726|header|element
+2727|identifier|element
+2728|oai:iss.ndl.go.jp:R000000004-I029966287-00|text
+2729|datestamp|element
+2730|2019-10-01T00:14:46Z|text
+2731|metadata|element
+2732|dc|element
+2733|title|element
+2734|自著を語る 生きることと書くこと[井上佳子『戦地巡歴 : わが祖父の声を聴く』]|text
+2735|creator|element
+2736|井上 佳子|text
+2737|language|element
+2738|jpn|text
+2739|record|element
+2740|header|element
+2741|identifier|element
+2742|oai:iss.ndl.go.jp:R000000004-I029966791-00|text
+2743|datestamp|element
+2744|2019-10-01T00:14:46Z|text
+2745|metadata|element
+2746|dc|element
+2747|title|element
+2748|大学が地域課題を学ぶ意義を問い直す|text
+2749|creator|element
+2750|畑 正夫|text
+2751|creator|element
+2752|長岡 素彦|text
+2753|language|element
+2754|jpn|text
+2755|record|element
+2756|header|element
+2757|identifier|element
+2758|oai:iss.ndl.go.jp:R000000004-I029941341-00|text
+2759|datestamp|element
+2760|2019-10-01T00:14:46Z|text
+2761|metadata|element
+2762|dc|element
+2763|title|element
+2764|『ニューヨーク公共図書館 エクス・リブリス』を見て考えたこと|text
+2765|creator|element
+2766|稲垣 真穂|text
+2767|language|element
+2768|jpn|text
+2769|record|element
+2770|header|element
+2771|identifier|element
+2772|oai:iss.ndl.go.jp:R000000004-I029967115-00|text
+2773|datestamp|element
+2774|2019-10-01T00:14:46Z|text
+2775|metadata|element
+2776|dc|element
+2777|title|element
+2778|施設間の連携やBCPを視野に災害対応を高度化「札幌駅ビル・JRタワー」|text
+2779|creator|element
+2780|田中 千賀子|text
+2781|language|element
+2782|jpn|text
+2783|record|element
+2784|header|element
+2785|identifier|element
+2786|oai:iss.ndl.go.jp:R000000004-I029966863-00|text
+2787|datestamp|element
+2788|2019-10-01T00:14:46Z|text
+2789|metadata|element
+2790|dc|element
+2791|title|element
+2792|放射状MRIを用いた肩腱板断裂に対する術前および術後画像評価|text
+2793|creator|element
+2794|横矢 晋|text
+2795|creator|element
+2796|根木 宏|text
+2797|creator|element
+2798|松下 亮介|text
+2799|creator|element
+2800|穐山 雄次|text
+2801|creator|element
+2802|安達 伸生|text
+2803|subject|element
+2804|放射状MRI (radial sequence MRI)|text
+2805|subject|element
+2806|腱板修復状態 (cuff integrity)|text
+2807|subject|element
+2808|腱板断裂 (rotator cuff tear)|text
+2809|language|element
+2810|jpn|text
+2811|record|element
+2812|header|element
+2813|identifier|element
+2814|oai:iss.ndl.go.jp:R000000004-I029966170-00|text
+2815|datestamp|element
+2816|2019-10-01T00:14:46Z|text
+2817|metadata|element
+2818|dc|element
+2819|title|element
+2820|保育者養成者のおかれている現状と課題 : 実践者と共に創る保育者養成|text
+2821|creator|element
+2822|清水 益治|text
+2823|language|element
+2824|jpn|text
+2825|record|element
+2826|header|element
+2827|identifier|element
+2828|oai:iss.ndl.go.jp:R000000004-I029967192-00|text
+2829|datestamp|element
+2830|2019-10-01T00:14:46Z|text
+2831|metadata|element
+2832|dc|element
+2833|title|element
+2834|日中民事訴訟手続の基本構造の比較|text
+2835|creator|element
+2836|朱 省志|text
+2837|language|element
+2838|jpn|text
+2839|record|element
+2840|header|element
+2841|identifier|element
+2842|oai:iss.ndl.go.jp:R000000004-I029967015-00|text
+2843|datestamp|element
+2844|2019-10-01T00:14:46Z|text
+2845|metadata|element
+2846|dc|element
+2847|title|element
+2848|複式簿記と企業会計についての一考察|text
+2849|creator|element
+2850|吉田 真理子|text
+2851|language|element
+2852|jpn|text
+2853|record|element
+2854|header|element
+2855|identifier|element
+2856|oai:iss.ndl.go.jp:R000000004-I029966600-00|text
+2857|datestamp|element
+2858|2019-10-01T00:14:46Z|text
+2859|metadata|element
+2860|dc|element
+2861|title|element
+2862|定仙の受法について(3)三宝院流の受法|text
+2863|creator|element
+2864|大八木 隆祥|text
+2865|language|element
+2866|jpn|text
+2867|record|element
+2868|header|element
+2869|identifier|element
+2870|oai:iss.ndl.go.jp:R000000004-I029960344-00|text
+2871|datestamp|element
+2872|2019-10-01T00:14:46Z|text
+2873|metadata|element
+2874|dc|element
+2875|title|element
+2876|新たな全世代型社会保障検討会議を設置へ|text
+2877|language|element
+2878|jpn|text
+2879|record|element
+2880|header|element
+2881|identifier|element
+2882|oai:iss.ndl.go.jp:R000000004-I029967114-00|text
+2883|datestamp|element
+2884|2019-10-01T00:14:46Z|text
+2885|metadata|element
+2886|dc|element
+2887|title|element
+2888|大洗海の大学における令和時代の海岸活用の取り組み|text
+2889|creator|element
+2890|光又 新二|text
+2891|language|element
+2892|jpn|text
+2893|record|element
+2894|header|element
+2895|identifier|element
+2896|oai:iss.ndl.go.jp:R000000004-I029966500-00|text
+2897|datestamp|element
+2898|2019-10-01T00:14:46Z|text
+2899|metadata|element
+2900|dc|element
+2901|title|element
+2902|「出入国在留管理基本計画」の策定について|text
+2903|language|element
+2904|jpn|text
+2905|record|element
+2906|header|element
+2907|identifier|element
+2908|oai:iss.ndl.go.jp:R000000004-I029966933-00|text
+2909|datestamp|element
+2910|2019-10-01T00:14:46Z|text
+2911|metadata|element
+2912|dc|element
+2913|title|element
+2914|回復期病棟に入棟した人工膝関節全置換術患者におけるバランス機能の改善と下肢筋力・足部機能の関連性|text
+2915|creator|element
+2916|池田 崇|text
+2917|creator|element
+2918|松永 勇紀|text
+2919|creator|element
+2920|宮澤 僚|text
+2921|creator|element
+2922|神原 雅典|text
+2923|creator|element
+2924|高木 博|text
+2925|creator|element
+2926|中村 大介|text
+2927|subject|element
+2928|人工膝関節全置換術 (total knee arthroplasty)|text
+2929|subject|element
+2930|バランス能力 (balance ability)|text
+2931|subject|element
+2932|回復期病棟 (convalescent ward)|text
+2933|language|element
+2934|jpn|text
+2935|record|element
+2936|header|element
+2937|identifier|element
+2938|oai:iss.ndl.go.jp:R000000004-I029966852-00|text
+2939|datestamp|element
+2940|2019-10-01T00:14:46Z|text
+2941|metadata|element
+2942|dc|element
+2943|title|element
+2944|第14回 日本臨床検査学教育学会学術大会 抄録集|text
+2945|language|element
+2946|jpn|text
+2947|record|element
+2948|header|element
+2949|identifier|element
+2950|oai:iss.ndl.go.jp:R000000004-I029965771-00|text
+2951|datestamp|element
+2952|2019-10-01T00:14:46Z|text
+2953|metadata|element
+2954|dc|element
+2955|title|element
+2956|SJNK SDGsを知らない人が7割 : 社会的課題・SDGsに関する意識調査結果を公表|text
+2957|language|element
+2958|jpn|text
+2959|record|element
+2960|header|element
+2961|identifier|element
+2962|oai:iss.ndl.go.jp:R000000004-I029966786-00|text
+2963|datestamp|element
+2964|2019-10-01T00:14:46Z|text
+2965|metadata|element
+2966|dc|element
+2967|title|element
+2968|威毛を描く : 邦ちゃんとの思い出|text
+2969|creator|element
+2970|三浦 一郎|text
+2971|language|element
+2972|jpn|text
+2973|record|element
+2974|header|element
+2975|identifier|element
+2976|oai:iss.ndl.go.jp:R000000004-I5000147-00|text
+2977|datestamp|element
+2978|2019-10-01T00:14:46Z|text
+2979|metadata|element
+2980|dc|element
+2981|title|element
+2982|国連加盟とその影響|text
+2983|creator|element
+2984|五味 三勇|text
+2985|subject|element
+2986|国際連合|text
+2987|record|element
+2988|header|element
+2989|identifier|element
+2990|oai:iss.ndl.go.jp:R000000004-I5001061-00|text
+2991|datestamp|element
+2992|2019-10-01T00:14:46Z|text
+2993|metadata|element
+2994|dc|element
+2995|title|element
+2996|米株式暴落と景気の前途|text
+2997|subject|element
+2998|経済|text
+2999|record|element
+3000|header|element
+3001|identifier|element
+3002|oai:iss.ndl.go.jp:R000000004-I023900931-00|text
+3003|datestamp|element
+3004|2019-10-01T00:14:47Z|text
+3005|metadata|element
+3006|dc|element
+3007|title|element
+3008|国有機関の体質を改善|text
+3009|language|element
+3010|jpn|text
+3011|record|element
+3012|header|element
+3013|identifier|element
+3014|oai:iss.ndl.go.jp:R000000004-I029046794-00|text
+3015|datestamp|element
+3016|2019-10-01T00:14:47Z|text
+3017|metadata|element
+3018|dc|element
+3019|title|element
+3020|Q&amp;A その時がきても、慌てず対処 知っておきたい! 年を重ねた犬&amp;猫のケア|text
+3021|creator|element
+3022|須﨑 恭彦|text
+3023|language|element
+3024|jpn|text
+3025|record|element
+3026|header|element
+3027|identifier|element
+3028|oai:iss.ndl.go.jp:R000000004-I028962711-00|text
+3029|datestamp|element
+3030|2019-10-01T00:14:47Z|text
+3031|metadata|element
+3032|dc|element
+3033|title|element
+3034|アンケート結果発表 85名のサバイバーが語る 闘病中の不安、治療後の戸惑い…… 私の心と体に起こった変化 : 治療後10年以上を経た方、まずは「5年」を目指している方、現在治療中の方……さまざまな状況下でがんと向き合う、経験者の声を聞きました|text
+3035|language|element
+3036|jpn|text
+3037|record|element
+3038|header|element
+3039|identifier|element
+3040|oai:iss.ndl.go.jp:R000000004-I028962628-00|text
+3041|datestamp|element
+3042|2019-10-01T00:14:47Z|text
+3043|metadata|element
+3044|dc|element
+3045|title|element
+3046|Dear Woman(2)ファッション×ビュー ギンガムをしとやかに|text
+3047|creator|element
+3048|中馬 あかね|text
+3049|language|element
+3050|jpn|text
+3051|record|element
+3052|header|element
+3053|identifier|element
+3054|oai:iss.ndl.go.jp:R000000004-I029217170-00|text
+3055|datestamp|element
+3056|2019-10-01T00:14:47Z|text
+3057|metadata|element
+3058|dc|element
+3059|title|element
+3060|表紙の私 肩肘を張らず|text
+3061|creator|element
+3062|有働 由美子|text
+3063|creator|element
+3064|Yuri Shinoto|text
+3065|language|element
+3066|jpn|text
+3067|record|element
+3068|header|element
+3069|identifier|element
+3070|oai:iss.ndl.go.jp:R000000004-I029099741-00|text
+3071|datestamp|element
+3072|2019-10-01T00:14:47Z|text
+3073|metadata|element
+3074|dc|element
+3075|title|element
+3076|誰にも媚びず、信念を曲げず 28年演じ続けた役を卒業。ロック歌手として新たなステージへ|text
+3077|creator|element
+3078|梶 芽衣子|text
+3079|language|element
+3080|jpn|text
+3081|record|element
+3082|header|element
+3083|identifier|element
+3084|oai:iss.ndl.go.jp:R000000004-I029132931-00|text
+3085|datestamp|element
+3086|2019-10-01T00:14:47Z|text
+3087|metadata|element
+3088|dc|element
+3089|title|element
+3090|介護には同居が必要? 運転をやめてほしい 空き家をどうしよう…… Q&amp;A それぞれのお家事情に、4人のプロがアドバイス!|text
+3091|creator|element
+3092|太田 差惠子|text
+3093|creator|element
+3094|所 正文|text
+3095|creator|element
+3096|池野 総克|text
+3097|creator|element
+3098|曽根 恵子|text
+3099|language|element
+3100|jpn|text
+3101|record|element
+3102|header|element
+3103|identifier|element
+3104|oai:iss.ndl.go.jp:R000000004-I029966506-00|text
+3105|datestamp|element
+3106|2019-10-01T00:14:47Z|text
+3107|metadata|element
+3108|dc|element
+3109|title|element
+3110|国内における子の引渡しの強制執行に関する規律の明確化と国際的な子の返還の強制執行に関する規律の見直し|text
+3111|creator|element
+3112|阿多 博文|text
+3113|language|element
+3114|jpn|text
+3115|record|element
+3116|header|element
+3117|identifier|element
+3118|oai:iss.ndl.go.jp:R000000004-I029967220-00|text
+3119|datestamp|element
+3120|2019-10-01T00:14:47Z|text
+3121|metadata|element
+3122|dc|element
+3123|title|element
+3124|需給動向 東京都・大阪市中央卸売市場の需給動向(令和元年7月)|text
+3125|creator|element
+3126|野菜振興部|text
+3127|creator|element
+3128|調査情報部|text
+3129|language|element
+3130|jpn|text
+3131|record|element
+3132|header|element
+3133|identifier|element
+3134|oai:iss.ndl.go.jp:R000000004-I029960401-00|text
+3135|datestamp|element
+3136|2019-10-01T00:14:47Z|text
+3137|metadata|element
+3138|dc|element
+3139|title|element
+3140|令和2年度介護保険関係の概算要求|text
+3141|language|element
+3142|jpn|text
+3143|record|element
+3144|header|element
+3145|identifier|element
+3146|oai:iss.ndl.go.jp:R000000004-I029966152-00|text
+3147|datestamp|element
+3148|2019-10-01T00:14:47Z|text
+3149|metadata|element
+3150|dc|element
+3151|title|element
+3152|業界情報 平成30(2018)年のFRP関連統計|text
+3153|creator|element
+3154|髙橋 儀徳|text
+3155|language|element
+3156|jpn|text
+3157|record|element
+3158|header|element
+3159|identifier|element
+3160|oai:iss.ndl.go.jp:R000000004-I029967167-00|text
+3161|datestamp|element
+3162|2019-10-01T00:14:47Z|text
+3163|metadata|element
+3164|dc|element
+3165|title|element
+3166|黒毛和種にビール粕サイレージ給与をした場合の飼料費および枝肉成績に及ぼす影響|text
+3167|creator|element
+3168|北山 梨樹|text
+3169|creator|element
+3170|西寒水 将|text
+3171|creator|element
+3172|今井 敬|text
+3173|creator|element
+3174|堂地 修|text
+3175|language|element
+3176|jpn|text
+3177|record|element
+3178|header|element
+3179|identifier|element
+3180|oai:iss.ndl.go.jp:R000000004-I029966388-00|text
+3181|datestamp|element
+3182|2019-10-01T00:14:47Z|text
+3183|metadata|element
+3184|dc|element
+3185|title|element
+3186|厚生労働省関係情報通知 使用薬剤の薬価(薬価基準)の一部改正等について|text
+3187|language|element
+3188|jpn|text
+3189|record|element
+3190|header|element
+3191|identifier|element
+3192|oai:iss.ndl.go.jp:R000000004-I029966756-00|text
+3193|datestamp|element
+3194|2019-10-01T00:14:47Z|text
+3195|metadata|element
+3196|dc|element
+3197|title|element
+3198|舗装再生技術の変遷と再生加熱アスファルト混合物の性能向上に関する一考察|text
+3199|creator|element
+3200|瀬尾 彰|text
+3201|subject|element
+3202|再生|text
+3203|subject|element
+3204|リサイクル|text
+3205|subject|element
+3206|繰返し再生|text
+3207|subject|element
+3208|再生添加剤|text
+3209|subject|element
+3210|維持修繕|text
+3211|subject|element
+3212|アスファルト|text
+3213|subject|element
+3214|組成|text
+3215|subject|element
+3216|均一性|text
+3217|language|element
+3218|jpn|text
+3219|record|element
+3220|header|element
+3221|identifier|element
+3222|oai:iss.ndl.go.jp:R000000004-I029967048-00|text
+3223|datestamp|element
+3224|2019-10-01T00:14:47Z|text
+3225|metadata|element
+3226|dc|element
+3227|title|element
+3228|蘇生の歴史(31)血液循環の発見(5)Francisco de la Reyna|text
+3229|creator|element
+3230|浅井 隆|text
+3231|subject|element
+3232|歴史|text
+3233|subject|element
+3234|呼吸|text
+3235|subject|element
+3236|呼吸管理|text
+3237|subject|element
+3238|history|text
+3239|subject|element
+3240|resuscitation|text
+3241|subject|element
+3242|blood circulation|text
+3243|language|element
+3244|jpn|text
+3245|record|element
+3246|header|element
+3247|identifier|element
+3248|oai:iss.ndl.go.jp:R000000004-I029965840-00|text
+3249|datestamp|element
+3250|2019-10-01T00:14:47Z|text
+3251|metadata|element
+3252|dc|element
+3253|title|element
+3254|ラグビーワールドカップや国際映画祭などで5Gプレサービス展開、NTTドコモ|text
+3255|subject|element
+3256|5G|text
+3257|language|element
+3258|jpn|text
+3259|record|element
+3260|header|element
+3261|identifier|element
+3262|oai:iss.ndl.go.jp:R000000004-I023430384-00|text
+3263|datestamp|element
+3264|2019-10-01T00:14:47Z|text
+3265|metadata|element
+3266|dc|element
+3267|title|element
+3268|特集 「クリエイティブ(創意産業)」が北京を照らす|text
+3269|creator|element
+3270|王 志|text
+3271|language|element
+3272|jpn|text
+3273|record|element
+3274|header|element
+3275|identifier|element
+3276|oai:iss.ndl.go.jp:R000000004-I023900986-00|text
+3277|datestamp|element
+3278|2019-10-01T00:14:47Z|text
+3279|metadata|element
+3280|dc|element
+3281|title|element
+3282|中日国交正常化40周年特別企画 中国-日本 友好の絆(6)ながの|text
+3283|creator|element
+3284|東京支局|text
+3285|language|element
+3286|jpn|text
